@@ -1,0 +1,5 @@
+pyyaml
+rfc3339==5
+pdfminer==20140328
+requests
+beautifulsoup4
