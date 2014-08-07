@@ -1,5 +1,5 @@
 - author_id: Unsigned Per Curiam Opinion
-  created: '2014-08-07T12:28:43'
+  created: '2014-08-07T13:56:58'
   docket_num: 13-9085
   name: Williams v. Johnson
   part_num: 573/2
@@ -9,7 +9,7 @@
   type: slip
   urls: []
 - author_id: Samuel A. Alito, Jr.
-  created: '2014-08-07T12:28:43'
+  created: '2014-08-07T13:56:58'
   docket_num: 13-354
   name: Burwell v. Hobby Lobby Stores, Inc.
   part_num: 573/2
@@ -56,7 +56,7 @@
     reviewer: null
     url: http://www.lc.org/media/9980/attachments/memo_vaccination.pdf
 - author_id: Samuel A. Alito, Jr.
-  created: '2014-08-07T12:28:52'
+  created: '2014-08-07T13:57:13'
   docket_num: 11-681
   name: Harris v. Quinn
   part_num: 573/2
@@ -72,7 +72,7 @@
     reviewer: null
     url: http://www.dhs.state.il.us/OneNetLibrary/27897/documents/Brochures/4365.pdf
 - author_id: Stephen G. Breyer
-  created: '2014-08-07T12:28:58'
+  created: '2014-08-07T13:57:24'
   docket_num: 12-1281
   name: NLRB v. Noel Canning
   part_num: 573/2
@@ -130,7 +130,7 @@
     reviewer: null
     url: http://www.justice.gov/olc/opiniondocs/section7054.pdf(quoting
 - author_id: John G. Roberts, Jr.
-  created: '2014-08-07T12:30:10'
+  created: '2014-08-07T13:59:13'
   docket_num: 12-1168
   name: McCullen v. Coakley
   part_num: 573/2
@@ -140,7 +140,7 @@
   type: slip
   urls: []
 - author_id: Stephen G. Breyer
-  created: '2014-08-07T12:30:15'
+  created: '2014-08-07T13:59:20'
   docket_num: 13-461
   name: American Broadcasting Cos. v. Aereo, Inc.
   part_num: 573/2
@@ -153,7 +153,7 @@
     reviewer: null
     url: http://help.netflix.com/en/node/412
 - author_id: Stephen G. Breyer
-  created: '2014-08-07T12:30:19'
+  created: '2014-08-07T13:59:25'
   docket_num: 12-751
   name: Fifth Third Bancorp v. Dudenhoeffer
   part_num: 573/2
@@ -163,7 +163,7 @@
   type: slip
   urls: []
 - author_id: John G. Roberts, Jr.
-  created: '2014-08-07T12:30:21'
+  created: '2014-08-07T13:59:28'
   docket_num: 13-132
   name: Riley v. California
   part_num: 573/2
@@ -173,7 +173,7 @@
   type: slip
   urls: []
 - author_id: Elena Kagan
-  created: '2014-08-07T12:30:24'
+  created: '2014-08-07T13:59:33'
   docket_num: 13-316
   name: Loughrin v. United States
   part_num: 573/1
@@ -183,7 +183,7 @@
   type: slip
   urls: []
 - author_id: Antonin Scalia
-  created: '2014-08-07T12:30:27'
+  created: '2014-08-07T13:59:37'
   docket_num: 12-1146
   name: Utility Air Regulatory Group v. EPA
   part_num: 573/1
@@ -193,7 +193,7 @@
   type: slip
   urls: []
 - author_id: John G. Roberts, Jr.
-  created: '2014-08-07T12:30:31'
+  created: '2014-08-07T13:59:45'
   docket_num: 13-317
   name: Halliburton Co. v. Erica P. John Fund, Inc.
   part_num: 573/1
@@ -203,7 +203,7 @@
   type: slip
   urls: []
 - author_id: Elena Kagan
-  created: '2014-08-07T12:30:36'
+  created: '2014-08-07T13:59:53'
   docket_num: 13-301
   name: United States v. Clarke
   part_num: 573/1
@@ -213,7 +213,7 @@
   type: slip
   urls: []
 - author_id: Sonia Sotomayor
-  created: '2014-08-07T12:30:37'
+  created: '2014-08-07T13:59:54'
   docket_num: 13-483
   name: Lane v. Franks
   part_num: 573/1
@@ -223,7 +223,7 @@
   type: slip
   urls: []
 - author_id: Clarence Thomas
-  created: '2014-08-07T12:30:39'
+  created: '2014-08-07T13:59:57'
   docket_num: 13-298
   name: "Alice Corp. v. CLS Bank Int\u2019l"
   part_num: 573/1
@@ -233,7 +233,7 @@
   type: slip
   urls: []
 - author_id: Elena Kagan
-  created: '2014-08-07T12:30:41'
+  created: '2014-08-07T14:00:01'
   docket_num: 12-1493
   name: Abramski v. United States
   part_num: 573/1
@@ -243,7 +243,7 @@
   type: slip
   urls: []
 - author_id: Clarence Thomas
-  created: '2014-08-07T12:30:45'
+  created: '2014-08-07T14:00:07'
   docket_num: 13-193
   name: Susan B. Anthony List v. Driehaus
   part_num: 573/1
@@ -253,7 +253,7 @@
   type: slip
   urls: []
 - author_id: Antonin Scalia
-  created: '2014-08-07T12:30:47'
+  created: '2014-08-07T14:00:11'
   docket_num: 12-842
   name: Republic of Argentina v. NML Capital, Ltd.
   part_num: 573/1
@@ -263,7 +263,7 @@
   type: slip
   urls: []
 - author_id: Sonia Sotomayor
-  created: '2014-08-07T12:30:49'
+  created: '2014-08-07T14:00:13'
   docket_num: 13-299
   name: Clark v. Rameker
   part_num: 573/1
@@ -273,7 +273,7 @@
   type: slip
   urls: []
 - author_id: Anthony M. Kennedy
-  created: '2014-08-07T12:30:50'
+  created: '2014-08-07T14:00:15'
   docket_num: 12-761
   name: POM Wonderful LLC v. Coca-Cola Co.
   part_num: 573/1
@@ -283,7 +283,7 @@
   type: slip
   urls: []
 - author_id: Elena Kagan
-  created: '2014-08-07T12:30:52'
+  created: '2014-08-07T14:00:18'
   docket_num: 12-930
   name: Scialabba v. Cuellar de Osorio
   part_num: 573/1
@@ -305,7 +305,7 @@
     reviewer: null
     url: http://travel.state.gov/visa/immigrants/types/types_2991.html#5
 - author_id: Clarence Thomas
-  created: '2014-08-07T12:30:58'
+  created: '2014-08-07T14:00:27'
   docket_num: 12-1200
   name: Executive Benefits Ins. Agency v. Arkison
   part_num: 573/1
@@ -315,7 +315,7 @@
   type: slip
   urls: []
 - author_id: Anthony M. Kennedy
-  created: '2014-08-07T12:31:00'
+  created: '2014-08-07T14:00:30'
   docket_num: 13-339
   name: CTS Corp. v. Waldburger
   part_num: 573/1
@@ -325,7 +325,7 @@
   type: slip
   urls: []
 - author_id: Samuel A. Alito, Jr.
-  created: '2014-08-07T12:31:02'
+  created: '2014-08-07T14:00:34'
   docket_num: 12-786
   name: Limelight Networks, Inc. v. Akamai Technologies, Inc.
   part_num: 572/2
@@ -335,7 +335,7 @@
   type: slip
   urls: []
 - author_id: Ruth Bader Ginsburg
-  created: '2014-08-07T12:31:04'
+  created: '2014-08-07T14:00:36'
   docket_num: 13-369
   name: Nautilus, Inc. v. Biosig Instruments, Inc.
   part_num: 572/2
@@ -345,7 +345,7 @@
   type: slip
   urls: []
 - author_id: John G. Roberts, Jr.
-  created: '2014-08-07T12:31:05'
+  created: '2014-08-07T14:00:39'
   docket_num: 12-158
   name: Bond v. United States
   part_num: 572/2
@@ -355,7 +355,7 @@
   type: slip
   urls: []
 - author_id: Unsigned Per Curiam Opinion
-  created: '2014-08-07T12:31:11'
+  created: '2014-08-07T14:00:48'
   docket_num: 13-5967
   name: Martinez v. Illinois
   part_num: 572/2
@@ -365,7 +365,7 @@
   type: slip
   urls: []
 - author_id: Elena Kagan
-  created: '2014-08-07T12:31:11'
+  created: '2014-08-07T14:00:49'
   docket_num: 12-515
   name: Michigan v. Bay Mills Indian Community
   part_num: 572/2
@@ -387,7 +387,7 @@
     reviewer: null
     url: http://www.sanmanuel-nsn.gov/fourfires.php
 - author_id: Samuel A. Alito, Jr.
-  created: '2014-08-07T12:31:17'
+  created: '2014-08-07T14:00:57'
   docket_num: 12-1117
   name: Plumhoff v. Rickard
   part_num: 572/2
@@ -397,7 +397,7 @@
   type: slip
   urls: []
 - author_id: Ruth Bader Ginsburg
-  created: '2014-08-07T12:31:19'
+  created: '2014-08-07T14:01:01'
   docket_num: 13-115
   name: Wood v. Moss
   part_num: 572/2
@@ -410,7 +410,7 @@
     reviewer: null
     url: http://www.ca9.uscourts.gov/media/view.php?pk_id=0000008129
 - author_id: Anthony M. Kennedy
-  created: '2014-08-07T12:31:21'
+  created: '2014-08-07T14:01:04'
   docket_num: 12-10882
   name: Hall v. Florida
   part_num: 572/2
@@ -420,7 +420,7 @@
   type: slip
   urls: []
 - author_id: Ruth Bader Ginsburg
-  created: '2014-08-07T12:31:25'
+  created: '2014-08-07T14:01:11'
   docket_num: 12-1315
   name: Petrella v. Metro-Goldwyn-Mayer, Inc.
   part_num: 572/2
@@ -430,7 +430,7 @@
   type: slip
   urls: []
 - author_id: Unsigned Per Curiam Opinion
-  created: '2014-08-07T12:31:29'
+  created: '2014-08-07T14:01:17'
   docket_num: 13-551
   name: Tolan v. Cotton
   part_num: 572/2
@@ -440,7 +440,7 @@
   type: slip
   urls: []
 - author_id: Stephen G. Breyer
-  created: '2014-08-07T12:31:30'
+  created: '2014-08-07T14:01:19'
   docket_num: 12-9012
   name: Robers v. United States
   part_num: 572/2
@@ -450,7 +450,7 @@
   type: slip
   urls: []
 - author_id: Anthony M. Kennedy
-  created: '2014-08-07T12:31:33'
+  created: '2014-08-07T14:01:23'
   docket_num: 12-696
   name: Town of Greece v. Galloway
   part_num: 572/2
@@ -469,7 +469,7 @@
     reviewer: null
     url: http://greeceny.gov/planning/townboard
 - author_id: Sonia Sotomayor
-  created: '2014-08-07T12:31:40'
+  created: '2014-08-07T14:01:34'
   docket_num: 12-1163
   name: Highmark Inc. v. Allcare Health Management System, Inc.
   part_num: 572/2
@@ -479,7 +479,7 @@
   type: slip
   urls: []
 - author_id: Sonia Sotomayor
-  created: '2014-08-07T12:31:41'
+  created: '2014-08-07T14:01:35'
   docket_num: 12-1184
   name: Octane Fitness, LLC v. ICON Health & Fitness, Inc.
   part_num: 572/2
@@ -489,7 +489,7 @@
   type: slip
   urls: []
 - author_id: Ruth Bader Ginsburg
-  created: '2014-08-07T12:31:42'
+  created: '2014-08-07T14:01:38'
   docket_num: 12-1182
   name: EPA v. EME Homer City Generation, L. P.
   part_num: 572/2
@@ -499,7 +499,7 @@
   type: slip
   urls: []
 - author_id: Anthony M. Kennedy
-  created: '2014-08-07T12:31:48'
+  created: '2014-08-07T14:01:47'
   docket_num: 12-8561
   name: Paroline v. United States
   part_num: 572/1
@@ -509,7 +509,7 @@
   type: slip
   urls: []
 - author_id: Antonin Scalia
-  created: '2014-08-07T12:31:53'
+  created: '2014-08-07T14:01:55'
   docket_num: 12-794
   name: White v. Woodall
   part_num: 572/1
@@ -519,7 +519,7 @@
   type: slip
   urls: []
 - author_id: Clarence Thomas
-  created: '2014-08-07T12:31:55'
+  created: '2014-08-07T14:01:58'
   docket_num: 12-9490
   name: Prado Navarette v. California
   part_num: 572/1
@@ -532,7 +532,7 @@
     reviewer: null
     url: http://nhtsa.gov/staticfiles/nti/pdf/808677.pdf(as
 - author_id: Anthony M. Kennedy
-  created: '2014-08-07T12:31:58'
+  created: '2014-08-07T14:02:01'
   docket_num: 12-682
   name: Schuette v. BAMN
   part_num: 572/1
@@ -584,7 +584,7 @@
     reviewer: null
     url: http://www.nytimes.com/interactive/2013/06/24/us/affirmative-action-bans.html
 - author_id: Samuel A. Alito, Jr.
-  created: '2014-08-07T12:32:08'
+  created: '2014-08-07T14:02:17'
   docket_num: 12-462
   name: Northwest, Inc. v. Ginsberg
   part_num: 572/1
@@ -597,7 +597,7 @@
     reviewer: null
     url: http://www.dot.gov/sites/dot.dev/files/docs/2014_February_ATCR.pdf
 - author_id: John G. Roberts, Jr.
-  created: '2014-08-07T12:32:10'
+  created: '2014-08-07T14:02:20'
   docket_num: 12-536
   name: "McCutcheon v. Federal Election Comm\u2019n"
   part_num: 572/1
@@ -619,7 +619,7 @@
     reviewer: null
     url: http://www.fec.gov/data/CommitteeSummary.do
 - author_id: Sonia Sotomayor
-  created: '2014-08-07T12:32:20'
+  created: '2014-08-07T14:02:34'
   docket_num: 12-1371
   name: United States v. Castleman
   part_num: 572/1
@@ -653,7 +653,7 @@
     reviewer: null
     url: http://nnedv.org/downloads/Policy/FVPSA_fact_sheet_9-22-10.pdf
 - author_id: Anthony M. Kennedy
-  created: '2014-08-07T12:32:23'
+  created: '2014-08-07T14:02:38'
   docket_num: 12-1408
   name: United States v. Quality Stores, Inc.
   part_num: 572/1
@@ -663,7 +663,7 @@
   type: slip
   urls: []
 - author_id: Antonin Scalia
-  created: '2014-08-07T12:32:24'
+  created: '2014-08-07T14:02:41'
   docket_num: 12-873
   name: "Lexmark Int\u2019l, Inc. v. Static Control Components, Inc."
   part_num: 572/1
@@ -673,7 +673,7 @@
   type: slip
   urls: []
 - author_id: John G. Roberts, Jr.
-  created: '2014-08-07T12:32:26'
+  created: '2014-08-07T14:02:45'
   docket_num: 12-1173
   name: Marvin M. Brandt Revocable Trust v. United States
   part_num: 572/1
@@ -686,7 +686,7 @@
     reviewer: null
     url: http://www.justice.gov/jmd/2014justification/pdf/enrd-justification.pdf
 - author_id: Elena Kagan
-  created: '2014-08-07T12:32:29'
+  created: '2014-08-07T14:02:49'
   docket_num: 12-895
   name: Rosemond v. United States
   part_num: 572/1
@@ -696,7 +696,7 @@
   type: slip
   urls: []
 - author_id: Stephen G. Breyer
-  created: '2014-08-07T12:32:31'
+  created: '2014-08-07T14:02:53'
   docket_num: 12-138
   name: BG Group plc v. Republic of Argentina
   part_num: 572/1
@@ -706,7 +706,7 @@
   type: slip
   urls: []
 - author_id: Clarence Thomas
-  created: '2014-08-07T12:32:35'
+  created: '2014-08-07T14:03:00'
   docket_num: 12-820
   name: Lozano v. Montoya Alvarez
   part_num: 572/1
@@ -716,7 +716,7 @@
   type: slip
   urls: []
 - author_id: Ruth Bader Ginsburg
-  created: '2014-08-07T12:32:37'
+  created: '2014-08-07T14:03:05'
   docket_num: 12-3
   name: Lawson v. FMR LLC
   part_num: 571/2
@@ -736,7 +736,7 @@
     url: "http://about.bloomberglaw.com/law-reports/staffing-firms-added-nearly-1-million-jobs-over-four-years-since-recession-asa-says/.\f\
       10"
 - author_id: Antonin Scalia
-  created: '2014-08-07T12:32:42'
+  created: '2014-08-07T14:03:13'
   docket_num: 12-5196
   name: Law v. Siegel
   part_num: 571/2
@@ -746,7 +746,7 @@
   type: slip
   urls: []
 - author_id: Stephen G. Breyer
-  created: '2014-08-07T12:32:43'
+  created: '2014-08-07T14:03:16'
   docket_num: 12-79
   name: Chadbourne & Parke LLP v. Troice
   part_num: 571/2
@@ -756,7 +756,7 @@
   type: slip
   urls: []
 - author_id: John G. Roberts, Jr.
-  created: '2014-08-07T12:32:47'
+  created: '2014-08-07T14:03:22'
   docket_num: 12-1038
   name: United States v. Apel
   part_num: 571/2
@@ -766,7 +766,7 @@
   type: slip
   urls: []
 - author_id: Elena Kagan
-  created: '2014-08-07T12:32:49'
+  created: '2014-08-07T14:03:26'
   docket_num: 12-464
   name: Kaley v. United States
   part_num: 571/2
@@ -779,7 +779,7 @@
     reviewer: null
     url: http://www.justice.gov/opa/pr/2013/April/13-crm-480.html
 - author_id: Samuel A. Alito, Jr.
-  created: '2014-08-07T12:32:52'
+  created: '2014-08-07T14:03:33'
   docket_num: 12-7822
   name: Fernandez v. California
   part_num: 571/2
@@ -795,7 +795,7 @@
     reviewer: null
     url: http://www.cdph.ca.gov/programs/Documents/VAWSPP-EPIC.pdf
 - author_id: Clarence Thomas
-  created: '2014-08-07T12:32:55'
+  created: '2014-08-07T14:03:37'
   docket_num: 12-574
   name: Walden v. Fiore
   part_num: 571/2
@@ -805,7 +805,7 @@
   type: slip
   urls: []
 - author_id: Unsigned Per Curiam Opinion
-  created: '2014-08-07T12:32:57'
+  created: '2014-08-07T14:03:40'
   docket_num: 13-6440
   name: Hinton v. Alabama
   part_num: 571/2
@@ -815,7 +815,7 @@
   type: slip
   urls: []
 - author_id: Sonia Sotomayor
-  created: '2014-08-07T12:32:58'
+  created: '2014-08-07T14:03:41'
   docket_num: 12-315
   name: Air Wisconsin Airlines Corp. v. Hoeper
   part_num: 571/2
@@ -825,7 +825,7 @@
   type: slip
   urls: []
 - author_id: Antonin Scalia
-  created: '2014-08-07T12:33:00'
+  created: '2014-08-07T14:03:45'
   docket_num: 12-417
   name: Sandifer v. United States Steel Corp.
   part_num: 571/2
@@ -835,7 +835,7 @@
   type: slip
   urls: []
 - author_id: Antonin Scalia
-  created: '2014-08-07T12:33:02'
+  created: '2014-08-07T14:03:48'
   docket_num: 12-7515
   name: Burrage v. United States
   part_num: 571/2
@@ -845,7 +845,7 @@
   type: slip
   urls: []
 - author_id: Stephen G. Breyer
-  created: '2014-08-07T12:33:04'
+  created: '2014-08-07T14:03:51'
   docket_num: 12-1128
   name: Medtronic, Inc. v. Mirowski Family Ventures, LLC
   part_num: 571/2
@@ -855,7 +855,7 @@
   type: slip
   urls: []
 - author_id: Anthony M. Kennedy
-  created: '2014-08-07T12:33:05'
+  created: '2014-08-07T14:03:53'
   docket_num: 12-992
   name: Ray Haluch Gravel Co. v. Central Pension Fund of Operating Engineers and Participating
     Employers
@@ -866,7 +866,7 @@
   type: slip
   urls: []
 - author_id: Sonia Sotomayor
-  created: '2014-08-07T12:33:06'
+  created: '2014-08-07T14:03:55'
   docket_num: 12-1036
   name: Mississippi ex rel. Hood v. AU Optronics Corp.
   part_num: 571/1
@@ -876,7 +876,7 @@
   type: slip
   urls: []
 - author_id: Ruth Bader Ginsburg
-  created: '2014-08-07T12:33:08'
+  created: '2014-08-07T14:03:58'
   docket_num: 11-965
   name: Daimler AG v. Bauman
   part_num: 571/1
@@ -889,7 +889,7 @@
     reviewer: null
     url: http://www.daimler.com/Projects/c2c/channel/documents/1364377_2004_DaimlerChrysler_Annual_Report.pdf
 - author_id: Clarence Thomas
-  created: '2014-08-07T12:33:12'
+  created: '2014-08-07T14:04:05'
   docket_num: 12-729
   name: Heimeshoff v. Hartford Life & Accident Ins. Co.
   part_num: 571/1
@@ -899,7 +899,7 @@
   type: slip
   urls: []
 - author_id: Sonia Sotomayor
-  created: '2014-08-07T12:33:14'
+  created: '2014-08-07T14:04:08'
   docket_num: 12-609
   name: Kansas v. Cheever
   part_num: 571/1
@@ -909,7 +909,7 @@
   type: slip
   urls: []
 - author_id: Unsigned Per Curiam Opinion
-  created: '2014-08-07T12:33:16'
+  created: '2014-08-07T14:04:10'
   docket_num: 12-99
   name: Unite Here Local 355 v. Mulhall
   part_num: 571/1
@@ -919,7 +919,7 @@
   type: slip
   urls: []
 - author_id: Ruth Bader Ginsburg
-  created: '2014-08-07T12:33:16'
+  created: '2014-08-07T14:04:11'
   docket_num: 12-815
   name: Sprint Communications, Inc. v. Jacobs
   part_num: 571/1
@@ -929,7 +929,7 @@
   type: slip
   urls: []
 - author_id: Samuel A. Alito, Jr.
-  created: '2014-08-07T12:33:17'
+  created: '2014-08-07T14:04:13'
   docket_num: 12-929
   name: Atlantic Marine Constr. Co. v. United States Dist. Court for Western Dist.
     of Tex.
@@ -940,7 +940,7 @@
   type: slip
   urls: []
 - author_id: Antonin Scalia
-  created: '2014-08-07T12:33:19'
+  created: '2014-08-07T14:04:17'
   docket_num: 12-562
   name: United States v. Woods
   part_num: 571/1
@@ -950,7 +950,7 @@
   type: slip
   urls: []
 - author_id: Unsigned Per Curiam Opinion
-  created: '2014-08-07T12:33:21'
+  created: '2014-08-07T14:04:20'
   docket_num: 13-113
   name: Ford Motor Co. v. United States
   part_num: 571/1
@@ -960,7 +960,7 @@
   type: slip
   urls: []
 - author_id: Samuel A. Alito, Jr.
-  created: '2014-08-07T12:33:21'
+  created: '2014-08-07T14:04:20'
   docket_num: 12-414
   name: Burt v. Titlow
   part_num: 571/1
@@ -970,7 +970,7 @@
   type: slip
   urls: []
 - author_id: Unsigned Per Curiam Opinion
-  created: '2014-08-07T12:33:23'
+  created: '2014-08-07T14:04:23'
   docket_num: 12-1217
   name: Stanton v. Sims
   part_num: 571/1
@@ -980,7 +980,7 @@
   type: slip
   urls: []
 - author_id: Unsigned Per Curiam Opinion
-  created: '2014-08-07T12:33:23'
+  created: '2014-08-07T14:04:24'
   docket_num: 12-872
   name: Madigan v. Levin
   part_num: 571/1
@@ -988,4 +988,5938 @@
   published: '2013-10-15T00:00:00'
   reporter_id: '1'
   type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:04:25'
+  docket_num: 13A1284
+  name: Wheaton College v. Sylvia Burwell
+  part_num: 573/2
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13a1284_ap6c.pdf
+  published: '2014-07-03T00:00:00'
+  reporter_id: null
+  type: comment
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://hrsa.gov/womensguidelines
+  - ok: null
+    reviewer: null
+    url: http://www.dol.gov/ebsa/pdf/preventiveserviceseligibleorganizationcertificationform.pdf
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:04:27'
+  docket_num: 13-1061
+  name: Mount Soledad Memorial Assn. v. Trunk
+  part_num: 573/2
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13-1061_775f.pdf
+  published: '2014-06-30T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:04:27'
+  docket_num: 12-755
+  name: Elmbrook School Dist. v. Doe
+  part_num: 573/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/12-755_3d46.pdf
+  published: '2014-06-16T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:04:28'
+  docket_num: 13-677
+  name: Beard v. Aguilar
+  part_num: 572/2
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13-677_2b35.pdf
+  published: '2014-05-05T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:04:29'
+  docket_num: 13-638
+  name: Hussain v. Obama
+  part_num: 572/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13-638_7758.pdf
+  published: '2014-04-21T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:04:29'
+  docket_num: 13A452
+  name: Planned Parenthood of Greater Tex. Surgical Health Services v. Abbott
+  part_num: 571/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13a452breyer_3ebh.pdf
+  published: '2013-11-19T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:04:30'
+  docket_num: 13A452
+  name: Planned Parenthood of Greater Tex. Surgical Health Services v. Abbott
+  part_num: 571/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13a452scalia_p86b.pdf
+  published: '2013-11-19T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:04:31'
+  docket_num: 13-5380
+  name: Woodward v. Alabama
+  part_num: 571/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13-5380_08l1.pdf
+  published: '2013-11-18T00:00:00'
+  reporter_id: null
+  type: comment
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://eji.org/files/Override_Report.pdf
+  - ok: null
+    reviewer: null
+    url: http://eji.org/files/Override_Report.pdf(as
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:04:35'
+  docket_num: 13-169
+  name: Martin v. Blessing
+  part_num: 571/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13-169_197d.pdf
+  published: '2013-11-18T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:04:35'
+  docket_num: 12-1480
+  name: Rapelje v. McClellan
+  part_num: 571/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/12-1480_4315.pdf
+  published: '2013-11-18T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:04:36'
+  docket_num: 13-95
+  name: Unger v. Young
+  part_num: 571/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13-95_22q3.pdf
+  published: '2013-11-12T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:04:37'
+  docket_num: 13-136
+  name: Marek v. Lane
+  part_num: 571/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13-136_3fbh.pdf
+  published: '2013-11-04T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:04:38'
+  docket_num: 13A1003   (13-854)
+  name: Teva Pharmaceuticals USA, Inc. v. Sandoz, Inc.
+  part_num: 572/1
+  pdf_url: http://www.supremecourt.gov/opinions/13pdf/13a1003_5h26.pdf
+  published: '2014-04-18T00:00:00'
+  reporter_id: null
+  type: in-chambers
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:04:38'
+  docket_num: 12-307
+  name: United States v. Windsor
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-307_6j37.pdf
+  published: '2013-06-26T00:00:00'
+  reporter_id: '79'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.maine.gov/sos/cec/elec/2012/tab-ref-2012.html(all
+  - ok: null
+    reviewer: null
+    url: http://www.ssa.gov/pubs/EN-05-10084.pdf
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:04:49'
+  docket_num: 12-357
+  name: Sekhar v. United States
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-357_bq7c.pdf
+  published: '2013-06-26T00:00:00'
+  reporter_id: '78'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:04:51'
+  docket_num: 12-144
+  name: Hollingsworth v. Perry
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-144_8ok0.pdf
+  published: '2013-06-26T00:00:00'
+  reporter_id: '77'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:04:56'
+  docket_num: 12-399
+  name: Adoptive Couple v. Baby Girl
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-399_q86b.pdf
+  published: '2013-06-25T00:00:00'
+  reporter_id: '76'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:05:04'
+  docket_num: 11-1447
+  name: Koontz v. St. Johns River Water Management Dist.
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1447_4e46.pdf
+  published: '2013-06-25T00:00:00'
+  reporter_id: '75'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:05:10'
+  docket_num: 12-96
+  name: Shelby County v. Holder
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf
+  published: '2013-06-25T00:00:00'
+  reporter_id: '74'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:05:20'
+  docket_num: 12-1084
+  name: Ryan v. Schad
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-1084_ap6c.pdf
+  published: '2013-06-24T00:00:00'
+  reporter_id: '73'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:05:21'
+  docket_num: 12-142
+  name: Mutual Pharmaceutical Co. v. Bartlett
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-142_8njq.pdf
+  published: '2013-06-24T00:00:00'
+  reporter_id: '72'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.fda.gov/ohrms/dockets/dockets/05p0072/05p-0072-pav0001-vol1.pdf
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:05:29'
+  docket_num: 11-556
+  name: Vance v. Ball State Univ.
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-556_11o2.pdf
+  published: '2013-06-24T00:00:00'
+  reporter_id: '71'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.businessdictionary.com/definition/supervisor.html
+  - ok: null
+    reviewer: null
+    url: http://management.about.com/od/policiesandprocedures/g/supervisor1.html
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:05:36'
+  docket_num: 12-418
+  name: United States v. Kebodeaux
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-418_7k8b.pdf
+  published: '2013-06-24T00:00:00'
+  reporter_id: '70'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ncleg.net/documentsites/committees/JLOCJPS/October%
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:05:41'
+  docket_num: 12-484
+  name: University of Tex. Southwestern Medical Center v. Nassar
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-484_o759.pdf
+  published: '2013-06-24T00:00:00'
+  reporter_id: '69'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.eeoc.gov/eeoc/statistics/enforcement/charges.cfm
+  - ok: null
+    reviewer: null
+    url: http://www.eeoc.gov/policy/docs/disparat.html
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:05:48'
+  docket_num: 11-345
+  name: Fisher v. University of Texas at Austin
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-345_l5gm.pdf
+  published: '2013-06-24T00:00:00'
+  reporter_id: '68'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.cnn.com/2011/US/01/27/pennsylvania.segregation/index.html?_s=PM:US
+- author_id: Elena Kagan
+  created: '2014-08-07T14:05:54'
+  docket_num: 11-9540
+  name: Descamps v. United States
+  part_num: 570/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-9540_6k47.pdf
+  published: '2013-06-20T00:00:00'
+  reporter_id: '67'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:06:01'
+  docket_num: 12-133
+  name: American Express Co. v. Italian Colors Restaurant
+  part_num: 570/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-133_19m1.pdf
+  published: '2013-06-20T00:00:00'
+  reporter_id: '66'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:06:05'
+  docket_num: 12-10
+  name: "Agency for Int\u2019l Development v. Alliance for Open Society Int\u2019\
+    l, Inc."
+  part_num: 570/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-10_21p3.pdf
+  published: '2013-06-20T00:00:00'
+  reporter_id: '65'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:06:08'
+  docket_num: 12-246
+  name: Salinas v. Texas
+  part_num: 570/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-246_7l48.pdf
+  published: '2013-06-17T00:00:00'
+  reporter_id: '64'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:06:12'
+  docket_num: 12-416
+  name: FTC v. Actavis, Inc.
+  part_num: 570/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-416_m5n0.pdf
+  published: '2013-06-17T00:00:00'
+  reporter_id: '63'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:06:18'
+  docket_num: 11-9335
+  name: Alleyne v. United States
+  part_num: 570/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-9335_b8cf.pdf
+  published: '2013-06-17T00:00:00'
+  reporter_id: '62'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:06:24'
+  docket_num: 12-25
+  name: Maracich v. Spears
+  part_num: 570/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-25_4314.pdf
+  published: '2013-06-17T00:00:00'
+  reporter_id: '61'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.epic.org/privacy/drivers/
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:06:31'
+  docket_num: 12-71
+  name: Arizona v. Inter Tribal Council of Ariz., Inc.
+  part_num: 570/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-71_7l48.pdf
+  published: '2013-06-17T00:00:00'
+  reporter_id: '60'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.eac.gov
+  - ok: null
+    reviewer: null
+    url: http://www.azsos.gov.)
+  - ok: null
+    reviewer: null
+    url: http://avalon.law.yale.edu/18th_century/ratny.asp(all
+  - ok: null
+    reviewer: null
+    url: http://avalon.law.yale.edu/18th_century/ratri.asp
+  - ok: null
+    reviewer: null
+    url: http://www.socialsecurity.gov/online/ss-5.pdf
+- author_id: Elena Kagan
+  created: '2014-08-07T14:06:38'
+  docket_num: 11-798
+  name: American Trucking Assns., Inc. v. Los Angeles
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-798_anbf.pdf
+  published: '2013-06-13T00:00:00'
+  reporter_id: '59'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:06:41'
+  docket_num: 11-889
+  name: Tarrant Regional Water Dist. v. Herrmann
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-889_5ie6.pdf
+  published: '2013-06-13T00:00:00'
+  reporter_id: '58'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:06:46'
+  docket_num: 12-167
+  name: United States v. Davila
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-167_d1oe.pdf
+  published: '2013-06-13T00:00:00'
+  reporter_id: '57'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:06:49'
+  docket_num: 12-398
+  name: Association for Molecular Pathology v. Myriad Genetics, Inc.
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-398_1b7d.pdf
+  published: '2013-06-13T00:00:00'
+  reporter_id: '56'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:06:52'
+  docket_num: 12-135
+  name: Oxford Health Plans LLC v. Sutter
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-135_e1p3.pdf
+  published: '2013-06-10T00:00:00'
+  reporter_id: '55'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:06:55'
+  docket_num: 12-62
+  name: Peugh v. United States
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-62_5g68.pdf
+  published: '2013-06-10T00:00:00'
+  reporter_id: '54'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:07:00'
+  docket_num: 12-123
+  name: Horne v. Department of Agriculture
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-123_c07d.pdf
+  published: '2013-06-10T00:00:00'
+  reporter_id: '53'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:07:03'
+  docket_num: 12-694
+  name: Nevada v. Jackson
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-694_5368.pdf
+  published: '2013-06-03T00:00:00'
+  reporter_id: '52'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:07:04'
+  docket_num: 11-1221
+  name: Hillman v. Maretta
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1221_7l48.pdf
+  published: '2013-06-03T00:00:00'
+  reporter_id: '51'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:07:08'
+  docket_num: 12-207
+  name: Maryland v. King
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-207_d18e.pdf
+  published: '2013-06-03T00:00:00'
+  reporter_id: '50'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.denverda.org/DNA_Documents
+  - ok: null
+    reviewer: null
+    url: http://www.denverda.org/DNA_Documents/Arrestee_Database/Chicago%20Preventable%20Crimes-
+  - ok: null
+    reviewer: null
+    url: http://www.denverda.org/DNA_
+  - ok: null
+    reviewer: null
+    url: http://bjs.gov/content/pub/pdf/cfjs04.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.fbi.gov/about-us/cjis/fingerprints_biometrics/iafis/iafis
+  - ok: null
+    reviewer: null
+    url: http://ohioattorneygeneral.gov/Media/News-Releases/January-2013/Attorney-General-DeWine-Announces-Significant-
+  - ok: null
+    reviewer: null
+    url: http://
+  - ok: null
+    reviewer: null
+    url: http://www.fbi.gov/about-us/lab/codis/codis-and-ndis-fact-sheet
+  - ok: null
+    reviewer: null
+    url: http://www.fbi.gov/about-us/cjis/fingerprints_biometrics/iafis/iafis(hereinafter
+  - ok: null
+    reviewer: null
+    url: http://www.fbi.gov/foia/privacy-impact-assessments/iafis-ngi-risc
+  - ok: null
+    reviewer: null
+    url: http://ohioattorneygeneral.gov/Media/News-Releases/January-2013/Attorney-General-DeWine-Announces-
+  - ok: null
+    reviewer: null
+    url: http://www.gov.state.la.us/index.cfm?md=newsroom&tmp=detail&articleID=3102
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:07:14'
+  docket_num: 11-10189
+  name: Trevino v. Thaler
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-10189_6k47.pdf
+  published: '2013-05-28T00:00:00'
+  reporter_id: '49'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:07:18'
+  docket_num: 12-126
+  name: McQuiggin v. Perkins
+  part_num: 569/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-126_lkgn.pdf
+  published: '2013-05-28T00:00:00'
+  reporter_id: '48'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:07:25'
+  docket_num: 12-236
+  name: Sebelius v. Cloer
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-236_9ok0.pdf
+  published: '2013-05-20T00:00:00'
+  reporter_id: '47'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:07:27'
+  docket_num: 12-547
+  name: Metrish v. Lancaster
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-547_0pm1.pdf
+  published: '2013-05-20T00:00:00'
+  reporter_id: '46'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:07:30'
+  docket_num: 12-43
+  name: PPL Corp. v. Commissioner
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-43_g20h.pdf
+  published: '2013-05-20T00:00:00'
+  reporter_id: '45'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:07:35'
+  docket_num: 11-1545
+  name: Arlington v. FCC
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1545_1b7d.pdf
+  published: '2013-05-20T00:00:00'
+  reporter_id: '44'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:07:42'
+  docket_num: 11-796
+  name: Bowman v. Monsanto Co.
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-796_c07d.pdf
+  published: '2013-05-13T00:00:00'
+  reporter_id: '43'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:07:43'
+  docket_num: 11-1518
+  name: Bullock v. BankChampaign, N. A.
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1518_97be.pdf
+  published: '2013-05-13T00:00:00'
+  reporter_id: '42'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:07:45'
+  docket_num: 12-52
+  name: "Dan\u2019s City Used Cars, Inc. v. Pelkey"
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-52_l537.pdf
+  published: '2013-05-13T00:00:00'
+  reporter_id: '41'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:07:48'
+  docket_num: 11-9953
+  name: Boyer v. Louisiana
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-9953_4h25.pdf
+  published: '2013-04-29T00:00:00'
+  reporter_id: '40'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:07:50'
+  docket_num: 12-17
+  name: McBurney v. Young
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-17_d1o2.pdf
+  published: '2013-04-29T00:00:00'
+  reporter_id: '39'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.co.henrico.va.us/finance/disclaimer.html
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:07:53'
+  docket_num: 11-702
+  name: Moncrieffe v. Holder
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-702_9p6b.pdf
+  published: '2013-04-23T00:00:00'
+  reporter_id: '38'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:07:59'
+  docket_num: 11-1425
+  name: Missouri v. McNeely
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1425_cb8e.pdf
+  published: '2013-04-17T00:00:00'
+  reporter_id: '37'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:08:06'
+  docket_num: 10-1491
+  name: Kiobel v. Royal Dutch Petroleum Co.
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/10-1491_l6gn.pdf
+  published: '2013-04-17T00:00:00'
+  reporter_id: '36'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.unhcr.org/refworld/docid/47fdfaeb0.pdf(as
+- author_id: Elena Kagan
+  created: '2014-08-07T14:08:11'
+  docket_num: 11-1285
+  name: US Airways, Inc. v. McCutchen
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1285_i4dk.pdf
+  published: '2013-04-16T00:00:00'
+  reporter_id: '35'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:08:15'
+  docket_num: 11-1059
+  name: Genesis HealthCare Corp. v. Symczyk
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1059_5ifl.pdf
+  published: '2013-04-16T00:00:00'
+  reporter_id: '34'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:08:18'
+  docket_num: 12-382
+  name: Marshall v. Rodgers
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-382_4h25.pdf
+  published: '2013-04-01T00:00:00'
+  reporter_id: '33'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:08:19'
+  docket_num: 11-10362
+  name: Millbrook v. United States
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-10362_2d9g.pdf
+  published: '2013-03-27T00:00:00'
+  reporter_id: '32'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:08:20'
+  docket_num: 11-864
+  name: Comcast Corp. v. Behrend
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-864_k537.pdf
+  published: '2013-03-27T00:00:00'
+  reporter_id: '31'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:08:24'
+  docket_num: 11-564
+  name: Florida v. Jardines
+  part_num: 569/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-564_5426.pdf
+  published: '2013-03-26T00:00:00'
+  reporter_id: '30'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://dogs.about.com/od/toyssupplies/tp/Dog-Leashes.htm
+  - ok: null
+    reviewer: null
+    url: http://www.rps.ac.uk/mss/1318/9
+  - ok: null
+    reviewer: null
+    url: http://www.jhu.edu/jhumag/996web/smell.html
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:08:28'
+  docket_num: 12-98
+  name: Wos v. E. M. A.
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-98_9ol1.pdf
+  published: '2013-03-20T00:00:00'
+  reporter_id: '29'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:08:33'
+  docket_num: 11-338
+  name: Decker v. Northwest Environmental Defense Center
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-338_kifl.pdf
+  published: '2013-03-20T00:00:00'
+  reporter_id: '28'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.osha.gov/pls/imis/sic_manual.html
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:08:37'
+  docket_num: 11-1450
+  name: Standard Fire Ins. Co. v. Knowles
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1450_9olb.pdf
+  published: '2013-03-19T00:00:00'
+  reporter_id: '27'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:08:39'
+  docket_num: 11-697
+  name: Kirtsaeng v. John Wiley & Sons, Inc.
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-697_4g15.pdf
+  published: '2013-03-19T00:00:00'
+  reporter_id: '26'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://data.worldbank.org/indicator/NE.IMP?
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:08:51'
+  docket_num: 11-1351
+  name: Levin v. United States
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1351_aplc.pdf
+  published: '2013-03-04T00:00:00'
+  reporter_id: '25'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:08:54'
+  docket_num: 11-1085
+  name: Amgen Inc. v. Connecticut Retirement Plans and Trust Funds
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1085_9o6b.pdf
+  published: '2013-02-27T00:00:00'
+  reporter_id: '24'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:09:02'
+  docket_num: 11-1274
+  name: Gabelli v. SEC
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1274_aplc.pdf
+  published: '2013-02-27T00:00:00'
+  reporter_id: '23'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:09:03'
+  docket_num: 11-1025
+  name: Clapper v. Amnesty International USA
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1025_ihdj.pdf
+  published: '2013-02-26T00:00:00'
+  reporter_id: '22'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.justice.gov/nsd/foia/foia_library/2011fisa-ltr.pdf
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:09:10'
+  docket_num: 11-1175
+  name: Marx v. General Revenue Corp.
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1175_4fc5.pdf
+  published: '2013-02-26T00:00:00'
+  reporter_id: '21'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:09:14'
+  docket_num: 11-820
+  name: Chaidez v. United States
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-820_j426.pdf
+  published: '2013-02-20T00:00:00'
+  reporter_id: '20'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:09:20'
+  docket_num: 11-1327
+  name: Evans v. Michigan
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1327_7648.pdf
+  published: '2013-02-20T00:00:00'
+  reporter_id: '19'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:09:25'
+  docket_num: 11-465
+  name: Johnson v. Williams
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-465_g314.pdf
+  published: '2013-02-20T00:00:00'
+  reporter_id: '18'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.courts.ca.gov/documents/2011CourtStatisticsReport.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.supremecourt.ohio.gov
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:09:29'
+  docket_num: 11-9307
+  name: Henderson v. United States
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-9307_jhek.pdf
+  published: '2013-02-20T00:00:00'
+  reporter_id: '17'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:09:33'
+  docket_num: 11-1118
+  name: Gunn v. Minton
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1118_b97c.pdf
+  published: '2013-02-20T00:00:00'
+  reporter_id: '16'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:09:35'
+  docket_num: 11-817
+  name: Florida v. Harris
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-817_5if6.pdf
+  published: '2013-02-19T00:00:00'
+  reporter_id: '15'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:09:37'
+  docket_num: 11-1160
+  name: FTC v. Phoebe Putney Health System, Inc.
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1160_1824.pdf
+  published: '2013-02-19T00:00:00'
+  reporter_id: '14'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: "http://www.ncsl.org/issues\xADresearch/health/con-certificate-of-need-state-laws.aspx"
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:09:41'
+  docket_num: 11-770
+  name: Bailey v. United States
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-770_j4ek.pdf
+  published: '2013-02-19T00:00:00'
+  reporter_id: '13'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:09:46'
+  docket_num: 11-1347
+  name: Chafin v. Chafin
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1347_m648.pdf
+  published: '2013-02-19T00:00:00'
+  reporter_id: '12'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.hcch.net
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:09:49'
+  docket_num: 11-1231
+  name: Sebelius v. Auburn Regional Medical Center
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1231_32q3.pdf
+  published: '2013-01-22T00:00:00'
+  reporter_id: '11'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:09:52'
+  docket_num: 11-626
+  name: Lozman v. Riviera Beach
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-626_p8k0.pdf
+  published: '2013-01-15T00:00:00'
+  reporter_id: '10'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:09:57'
+  docket_num: 11-8976
+  name: Smith v. United States
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-8976_k5fl.pdf
+  published: '2013-01-09T00:00:00'
+  reporter_id: '9'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:09:59'
+  docket_num: 11-982
+  name: Already, LLC v. Nike, Inc.
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-982_i425.pdf
+  published: '2013-01-09T00:00:00'
+  reporter_id: '8'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:10:02'
+  docket_num: 11-460
+  name: Los Angeles County Flood Control Dist. v. Natural Resources Defense Council,
+    Inc.
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-460_3ea4.pdf
+  published: '2013-01-08T00:00:00'
+  reporter_id: '7'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:10:03'
+  docket_num: 10-930
+  name: Ryan v. Valencia Gonzales
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/10-930_7k47.pdf
+  published: '2013-01-08T00:00:00'
+  reporter_id: '6'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:10:07'
+  docket_num: 11-184
+  name: Kloeckner v. Solis
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-184_5ifl.pdf
+  published: '2012-12-10T00:00:00'
+  reporter_id: '5'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:10:09'
+  docket_num: 11-597
+  name: "Arkansas Game and Fish Comm\u2019n v. United States"
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-597_i426.pdf
+  published: '2012-12-04T00:00:00'
+  reporter_id: '4'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:10:13'
+  docket_num: 11-1377
+  name: Nitro-Lift Technologies, L. L. C. v. Howard
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1377_3e04.pdf
+  published: '2012-11-26T00:00:00'
+  reporter_id: '3'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:10:14'
+  docket_num: 11-192
+  name: United States v. Bormes
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-192_p246.pdf
+  published: '2012-11-13T00:00:00'
+  reporter_id: '2'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:10:17'
+  docket_num: 12-168
+  name: Lefemine v. Wideman
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-168_9o6b.pdf
+  published: '2012-11-05T00:00:00'
+  reporter_id: '1'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:10:18'
+  docket_num: 13A57
+  name: Brown v. Plata
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/13a57_19m2.pdf
+  published: '2013-08-02T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:10:19'
+  docket_num: 12-7516
+  name: Gallow v. Cooper
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-7516_m648.pdf
+  published: '2013-06-27T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:10:19'
+  docket_num: 12-6355
+  name: Marrero v. United States
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-6355_6k47.pdf
+  published: '2013-06-27T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:10:20'
+  docket_num: 12-862
+  name: Lanus v. United States
+  part_num: 570/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-862_8njp.pdf
+  published: '2013-06-27T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:10:20'
+  docket_num: 12-6142
+  name: Calhoun v. United States
+  part_num: 568/2
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-6142_2co3.pdf
+  published: '2013-02-25T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:10:21'
+  docket_num: 11-10974
+  name: Hodge v. Kentucky
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-10974_d1o2.pdf
+  published: '2012-12-03T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:10:22'
+  docket_num: 11-1515
+  name: Delling v. Idaho
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/11-1515_e2pg.pdf
+  published: '2012-11-26T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:10:23'
+  docket_num: 12-6760
+  name: Haynes v. Thaler
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-6760scalia_c0n2.pdf
+  published: '2012-11-13T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:10:23'
+  docket_num: 12-6760
+  name: Haynes v. Thaler
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12-6760sotomayor_7k47.pdf
+  published: '2012-11-13T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:10:23'
+  docket_num: 12A644
+  name: Hobby Lobby Stores, Inc. v. Sebelius
+  part_num: 568/1
+  pdf_url: http://www.supremecourt.gov/opinions/12pdf/12a644_k53l.pdf
+  published: '2012-12-26T00:00:00'
+  reporter_id: null
+  type: in-chambers
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:10:24'
+  docket_num: 11-1184
+  name: Tennant v. Jefferson County
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-1184_ap6c.pdf
+  published: '2012-09-25T00:00:00'
+  reporter_id: '78'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:10:26'
+  docket_num: 10-708
+  name: First American Financial Corp. v. Edwards
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-7081b2d.pdf
+  published: '2012-06-28T00:00:00'
+  reporter_id: '77'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:10:26'
+  docket_num: 11-210
+  name: United States v. Alvarez
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-210d4e9.pdf
+  published: '2012-06-28T00:00:00'
+  reporter_id: '76'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.cmohs.org/recipient-archive.php
+  - ok: null
+    reviewer: null
+    url: http://articles.philly.com/2004-02-11/news/25374213_1_medals-military-imposters-distinguished-flying-cross
+  - ok: null
+    reviewer: null
+    url: http://www.chicagotribune.com/news/local/chi-valor-oct25,0,4301227.story?page=1
+  - ok: null
+    reviewer: null
+    url: http://articles.chicagotribune.com/1994-10-21/news/9410210318_1_congressional-medal-highest-fritz
+  - ok: null
+    reviewer: null
+    url: http://www.nytimes.com/2002/04/29/business/at-fox-news-the-colonel-who-wasn-t.html?pagewanted=all&src=pm
+  - ok: null
+    reviewer: null
+    url: http://www.nydailynews.com/news/crime/war-crime-fbi-targets-fake-heroes-article-1.249168
+  - ok: null
+    reviewer: null
+    url: http://www.justice.gov/usao/waw/press/2007/sep/operationstolenvalor.html
+  - ok: null
+    reviewer: null
+    url: http://triblive.com/
+  - ok: null
+    reviewer: null
+    url: http://www.history.army.mil/html/moh/mohstats.html
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:10:33'
+  docket_num: 11-393
+  name: National Federation of Independent Business v. Sebelius
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-393c3a2.pdf
+  published: '2012-06-28T00:00:00'
+  reporter_id: '75'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.familiesusa.org
+  - ok: null
+    reviewer: null
+    url: http://www.washingtonpost.com/blogs/ezra-klein/post/
+  - ok: null
+    reviewer: null
+    url: http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsHistorical.html
+  - ok: null
+    reviewer: null
+    url: http://www.bls.gov/ncs/ebs/sp/selmedbensreport.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.whitehouse.gov/omb/budget/Historicals
+  - ok: null
+    reviewer: null
+    url: http://www.whitehouse.gov/omb/budget/Historicals
+  - ok: null
+    reviewer: null
+    url: http://www.nasbo.org/publications-data/state-expenditure-report/archives
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:11:04'
+  docket_num: 11-1179
+  name: American Tradition Partnership, Inc. v. Bullock
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-1179h9j3.pdf
+  published: '2012-06-25T00:00:00'
+  reporter_id: '74'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:11:05'
+  docket_num: 10-9646
+  name: Miller v. Alabama
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-9646.pdf
+  published: '2012-06-25T00:00:00'
+  reporter_id: '73'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.hrw.org/news/2009/10/02/state-distribution-juvenile-offenders-serving-juvenile-life-without-parole
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:11:16'
+  docket_num: 11-182
+  name: Arizona v. United States
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-182.pdf
+  published: '2012-06-25T00:00:00'
+  reporter_id: '72'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.dhs.gov/files/resources/immigration.shtm
+  - ok: null
+    reviewer: null
+    url: http://www.ice.gov/news/library/factsheets/lesc.htm
+  - ok: null
+    reviewer: null
+    url: http://newsdesk.si.edu/releases
+  - ok: null
+    reviewer: null
+    url: http://www.dhs.gov
+  - ok: null
+    reviewer: null
+    url: "http://www.whitehouse.gov.\f22"
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:11:27'
+  docket_num: 11-94
+  name: Southern Union Co. v. United States
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-94a1b2.pdf
+  published: '2012-06-21T00:00:00'
+  reporter_id: '71'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:11:34'
+  docket_num: 10-1121
+  name: Knox v. Service Employees
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1121c4d6.pdf
+  published: '2012-06-21T00:00:00'
+  reporter_id: '70'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.dol.gov/whd/state/righttowork.htm
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:11:42'
+  docket_num: 11-5683
+  name: Dorsey v. United States
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-5683i7k8.pdf
+  published: '2012-06-21T00:00:00'
+  reporter_id: '69'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:11:48'
+  docket_num: 10-1293
+  name: FCC v. Fox Television Stations, Inc.
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1293f3e5.pdf
+  published: '2012-06-21T00:00:00'
+  reporter_id: '68'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:11:52'
+  docket_num: 11-246
+  name: Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians v. Patchak
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-246.pdf
+  published: '2012-06-18T00:00:00'
+  reporter_id: '67'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:11:57'
+  docket_num: 11-551
+  name: Salazar v. Ramah Navajo Chapter
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-551.pdf
+  published: '2012-06-18T00:00:00'
+  reporter_id: '66'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:12:02'
+  docket_num: 11-204
+  name: Christopher v. SmithKline Beecham Corp.
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-204.pdf
+  published: '2012-06-18T00:00:00'
+  reporter_id: '65'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.dol.gov/sol/541amicus.htm
+  - ok: null
+    reviewer: null
+    url: http://www.kff.org/kaiserpolls/upload/7748.pdf(all
+  - ok: null
+    reviewer: null
+    url: http://www.phrma.org/sites/default/files/108/phrma_marketing_code_2008.pdf
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:12:09'
+  docket_num: 10-8505
+  name: Williams v. Illinois
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-8505.pdf
+  published: '2012-06-18T00:00:00'
+  reporter_id: '64'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.justice.gov/oig/special/0405/final.pdf
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:12:26'
+  docket_num: 11-845
+  name: Parker v. Matthews
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-845.pdf
+  published: '2012-06-11T00:00:00'
+  reporter_id: '63'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:12:27'
+  docket_num: 11-45
+  name: Elgin v. Department of Treasury
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-45.pdf
+  published: '2012-06-11T00:00:00'
+  reporter_id: '62'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:12:33'
+  docket_num: 11-161
+  name: Armour v. Indianapolis
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-161.pdf
+  published: '2012-06-04T00:00:00'
+  reporter_id: '61'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:12:37'
+  docket_num: 11-262
+  name: Reichle v. Howards
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-262.pdf
+  published: '2012-06-04T00:00:00'
+  reporter_id: '60'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:12:40'
+  docket_num: 11-1053
+  name: Coleman v. Johnson
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-1053.pdf
+  published: '2012-05-29T00:00:00'
+  reporter_id: '59'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:12:41'
+  docket_num: 11-166
+  name: RadLAX Gateway Hotel, LLC v. Amalgamated Bank
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-166.pdf
+  published: '2012-05-29T00:00:00'
+  reporter_id: '58'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:12:42'
+  docket_num: 10-1042
+  name: Freeman v. Quicken Loans, Inc.
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1042.pdf
+  published: '2012-05-24T00:00:00'
+  reporter_id: '57'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:12:45'
+  docket_num: 10-1320
+  name: Blueford v. Arkansas
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1320.pdf
+  published: '2012-05-24T00:00:00'
+  reporter_id: '56'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:12:49'
+  docket_num: 10-1542
+  name: Holder v. Martinez Gutierrez
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1542.pdf
+  published: '2012-05-21T00:00:00'
+  reporter_id: '55'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:12:52'
+  docket_num: 10-1472
+  name: Taniguchi v. Kan Pacific Saipan, Ltd.
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1472.pdf
+  published: '2012-05-21T00:00:00'
+  reporter_id: '54'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.prd.uscourts.gov/courtweb/pdf/taxation_of_costs_guidelines_2007_with_time_computation_amendments.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.mad.uscourts.gov/resources/pdf/taxation.pdf
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:12:56'
+  docket_num: 11-159
+  name: Astrue v. Capato
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-159.pdf
+  published: '2012-05-21T00:00:00'
+  reporter_id: '53'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:12:59'
+  docket_num: 10-875
+  name: Hall v. United States
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-875.pdf
+  published: '2012-05-14T00:00:00'
+  reporter_id: '52'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.uscourts.gov/Statistics/BankruptcyStatistics.aspx
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:13:05'
+  docket_num: 11-139
+  name: United States v. Home Concrete & Supply, LLC
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-139.pdf
+  published: '2012-04-25T00:00:00'
+  reporter_id: '51'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:13:10'
+  docket_num: 10-9995
+  name: Wood v. Milyard
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-9995.pdf
+  published: '2012-04-24T00:00:00'
+  reporter_id: '50'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:13:12'
+  docket_num: 11-88
+  name: Mohamad v. Palestinian Authority
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-88.pdf
+  published: '2012-04-18T00:00:00'
+  reporter_id: '49'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:13:15'
+  docket_num: 10-1219
+  name: Kappos v. Hyatt
+  part_num: 566/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1219.pdf
+  published: '2012-04-18T00:00:00'
+  reporter_id: '48'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:13:18'
+  docket_num: 10-844
+  name: Caraco Pharmaceutical Laboratories, Ltd. v. Novo Nordisk A/S
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-844.pdf
+  published: '2012-04-17T00:00:00'
+  reporter_id: '47'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.whitehouse.gov/omb/legislative_sap_107-2_S812-S
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:13:23'
+  docket_num: 10-1018
+  name: Filarsky v. Delia
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1018.pdf
+  published: '2012-04-17T00:00:00'
+  reporter_id: '46'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:13:27'
+  docket_num: 11-199
+  name: Vasquez v. United States
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-199.pdf
+  published: '2012-04-02T00:00:00'
+  reporter_id: '45'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:13:27'
+  docket_num: 10-788
+  name: Rehberg v. Paulk
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-788.pdf
+  published: '2012-04-02T00:00:00'
+  reporter_id: '44'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:13:31'
+  docket_num: 10-945
+  name: Florence v. Board of Chosen Freeholders of County of Burlington
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-945.pdf
+  published: '2012-04-02T00:00:00'
+  reporter_id: '43'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.justice.gov/ofdt/fpbds02232011.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.usmarshals.gov/foia
+  - ok: null
+    reviewer: null
+    url: http://www.ice.gov/doclib/dro/detention-standards/pdf/searches_of_detainees.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.ice.gov/doclib/dro/detention-standards/pdf/environmental_health_and_safety.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.bop.gov/policy/progstat/5140_038.pdf
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:13:37'
+  docket_num: 10-1024
+  name: FAA v. Cooper
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1024.pdf
+  published: '2012-03-28T00:00:00'
+  reporter_id: '42'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:13:42'
+  docket_num: 10-1211
+  name: Vartelas v. Holder
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1211.pdf
+  published: '2012-03-28T00:00:00'
+  reporter_id: '41'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:13:46'
+  docket_num: 10-7387
+  name: Setser v. United States
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-7387.pdf
+  published: '2012-03-28T00:00:00'
+  reporter_id: '40'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:13:50'
+  docket_num: 10-1261
+  name: Credit Suisse Securities (USA) LLC v. Simmonds
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1261.pdf
+  published: '2012-03-26T00:00:00'
+  reporter_id: '39'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:13:52'
+  docket_num: 10-699
+  name: Zivotofsky v. Clinton
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-699.pdf
+  published: '2012-03-26T00:00:00'
+  reporter_id: '38'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:13:57'
+  docket_num: 10-209
+  name: Lafler v. Cooper
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-209.pdf
+  published: '2012-03-21T00:00:00'
+  reporter_id: '37'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:14:03'
+  docket_num: 10-444
+  name: Missouri v. Frye
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-444.pdf
+  published: '2012-03-21T00:00:00'
+  reporter_id: '36'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.albany.edu/sourcebook/pdf/t5222009.pdf
+  - ok: null
+    reviewer: null
+    url: http://bjs.ojp.usdoj.gov/content/pub/pdf/fssc06st.pdf
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:14:06'
+  docket_num: 10-1062
+  name: Sackett v. EPA
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1062.pdf
+  published: '2012-03-21T00:00:00'
+  reporter_id: '35'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:14:08'
+  docket_num: 10-1399
+  name: Roberts v. Sea-Land Services, Inc.
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1399.pdf
+  published: '2012-03-20T00:00:00'
+  reporter_id: '34'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.dol.gov/owcp/dlhwc/NAWWinfo.htm(all
+  - ok: null
+    reviewer: null
+    url: http://www.dol.gov/owcp/dlhwc/ls-206.pdf
+  - ok: null
+    reviewer: null
+    url: "http://www.dol.gov/owcp/dlhwc/lspm/lspm2\xAD201.htm"
+  - ok: null
+    reviewer: null
+    url: http://www.dol.gov/owcp/dlhwc/LS-560pam.htm;Dept
+  - ok: null
+    reviewer: null
+    url: "http://www.dol.gov/owcp/dlhwc/lspm/lspm8\xAD201.htm"
+  - ok: null
+    reviewer: null
+    url: http://www.dol.gov/owcp/dlhwc/lspm/lspm2-201.htm
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:14:13'
+  docket_num: 10-1150
+  name: 'Mayo Collaborative Services v. Prometheus Laboratories, Inc. '
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1150.pdf
+  published: '2012-03-20T00:00:00'
+  reporter_id: '33'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.patentlyo.com/files/eisenberg.wisdomordeadhand
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:14:16'
+  docket_num: 10-1016
+  name: Coleman v. Court of Appeals of Md.
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1016.pdf
+  published: '2012-03-20T00:00:00'
+  reporter_id: '32'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:14:22'
+  docket_num: 10-1001
+  name: Martinez v. Ryan
+  part_num: 566/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1001.pdf
+  published: '2012-03-20T00:00:00'
+  reporter_id: '31'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:14:26'
+  docket_num: 10-1265
+  name: Martel v. Clair
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1265.pdf
+  published: '2012-03-05T00:00:00'
+  reporter_id: '30'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:14:29'
+  docket_num: 10-879
+  name: Kurns v. Railroad Friction Products Corp.
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-879.pdf
+  published: '2012-02-29T00:00:00'
+  reporter_id: '29'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.rr-fallenflags.org/manual/blh-6em.htmlvisited
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:14:33'
+  docket_num: 09-958
+  name: Douglas v. Independent Living Center of Southern Cal., Inc.
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/09-958.pdf
+  published: '2012-02-22T00:00:00'
+  reporter_id: '28'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.cms.gov/SMDL/downloads/SMD010201.pdf
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:14:36'
+  docket_num: 10-218
+  name: PPL Montana, LLC v. Montana
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-218.pdf
+  published: '2012-02-22T00:00:00'
+  reporter_id: '27'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:14:40'
+  docket_num: 10-704
+  name: Messerschmidt v. Millender
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-704.pdf
+  published: '2012-02-22T00:00:00'
+  reporter_id: '26'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:14:49'
+  docket_num: 11-391
+  name: Marmet Health Care Center, Inc. v. Brown
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-391.pdf
+  published: '2012-02-21T00:00:00'
+  reporter_id: '25'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:14:50'
+  docket_num: 11-38
+  name: Wetzel v. Lambert
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-38.pdf
+  published: '2012-02-21T00:00:00'
+  reporter_id: '24'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:14:52'
+  docket_num: 10-680
+  name: Howes v. Fields
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-680.pdf
+  published: '2012-02-21T00:00:00'
+  reporter_id: '23'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:14:55'
+  docket_num: 10-577
+  name: Kawashima v. Holder
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-577.pdf
+  published: '2012-02-21T00:00:00'
+  reporter_id: '22'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:14:59'
+  docket_num: 11-208
+  name: Ryburn v. Huff
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-208.pdf
+  published: '2012-01-23T00:00:00'
+  reporter_id: '21'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:15:00'
+  docket_num: 10-224
+  name: National Meat Assn. v. Harris
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-224.pdf
+  published: '2012-01-23T00:00:00'
+  reporter_id: '20'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:15:03'
+  docket_num: 10-6549
+  name: Reynolds v. United States
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-6549.pdf
+  published: '2012-01-23T00:00:00'
+  reporter_id: '19'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ojp.usdoj.gov/newsroom/pressreleases/2011/SMART_PR-072811.htm
+  - ok: null
+    reviewer: null
+    url: http://www.ojp.usdoj.gov/newsroom/pressreleases/2009/SMART09154.htm
+  - ok: null
+    reviewer: null
+    url: http://georgewbush-whitehouse.archives.gov/news/releases/2006/07/20060727-6.html
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:15:06'
+  docket_num: 10-1259
+  name: United States v. Jones
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1259.pdf
+  published: '2012-01-23T00:00:00'
+  reporter_id: '18'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://wheels.blogs.nytimes.com/2011/09/22/changes-to-onstars-privacy-terms-rile-some-users
+  - ok: null
+    reviewer: null
+    url: http://www.npr.org/series/114250076/the-end-of-privacy
+  - ok: null
+    reviewer: null
+    url: http://www.ctia.org/consumer_info/index.cfm/AID/10323
+  - ok: null
+    reviewer: null
+    url: http://googleblog.blogspot.com/2009/08/bright-side-of-sitting-in-traffic.html
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:15:12'
+  docket_num: 11-713
+  name: Perry v. Perez
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-713.pdf
+  published: '2012-01-20T00:00:00'
+  reporter_id: '17'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:15:14'
+  docket_num: 10-1195
+  name: Mims v. Arrow Financial Services, LLC
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1195.pdf
+  published: '2012-01-18T00:00:00'
+  reporter_id: '16'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:15:17'
+  docket_num: 10-545
+  name: Golan v. Holder
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-545.pdf
+  published: '2012-01-18T00:00:00'
+  reporter_id: '15'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://ec.europa.eu/information_society/activities/digital_libraries/doc/reports_
+  - ok: null
+    reviewer: null
+    url: http://www.arl.org/bm~doc/lcacomment0305.pdf;Comments
+  - ok: null
+    reviewer: null
+    url: http://
+  - ok: null
+    reviewer: null
+    url: http://www.ascap.com/licensing/termsdefined.aspx
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:15:28'
+  docket_num: 10-63
+  name: Maples v. Thomas
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-63.pdf
+  published: '2012-01-18T00:00:00'
+  reporter_id: '14'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://ec.europa.eu/civil_service/docs/toc100_en.pdf
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:15:34'
+  docket_num: 10-8974
+  name: Perry v. New Hampshire
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-8974.pdf
+  published: '2012-01-11T00:00:00'
+  reporter_id: '13'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.innocenceproject.org/Content/Facts_on_PostConviction_DNA_
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:15:41'
+  docket_num: 10-507
+  name: Pacific Operators Offshore, LLP v. Valladolid
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-507.pdf
+  published: '2012-01-11T00:00:00'
+  reporter_id: '12'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:15:44'
+  docket_num: 10-553
+  name: Hosanna-Tabor Evangelical Lutheran Church and School v. EEOC
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-553.pdf
+  published: '2012-01-11T00:00:00'
+  reporter_id: '11'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:15:50'
+  docket_num: 10-895
+  name: Gonzalez v. Thaler
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-895.pdf
+  published: '2012-01-10T00:00:00'
+  reporter_id: '10'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:15:57'
+  docket_num: 10-1104
+  name: Minneci v. Pollard
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1104.pdf
+  published: '2012-01-10T00:00:00'
+  reporter_id: '9'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://Weekly
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:16:00'
+  docket_num: 10-948
+  name: CompuCredit Corp. v. Greenwood
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-948.pdf
+  published: '2012-01-10T00:00:00'
+  reporter_id: '8'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:16:04'
+  docket_num: 10-8145
+  name: Smith v. Cain
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-8145.pdf
+  published: '2012-01-10T00:00:00'
+  reporter_id: '7'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:16:07'
+  docket_num: 11-74
+  name: Hardy v. Cross
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-74.pdf
+  published: '2011-12-12T00:00:00'
+  reporter_id: '6'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:16:09'
+  docket_num: 10-694
+  name: Judulang v. Holder
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-694.pdf
+  published: '2011-12-12T00:00:00'
+  reporter_id: '5'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:16:12'
+  docket_num: 10-637
+  name: Greene v. Fisher
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-637.pdf
+  published: '2011-11-08T00:00:00'
+  reporter_id: '4'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:16:14'
+  docket_num: 10-1540
+  name: Bobby v. Dixon
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1540.pdf
+  published: '2011-11-07T00:00:00'
+  reporter_id: '3'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:16:15'
+  docket_num: 10-1521
+  name: KPMG LLP v. Cocchi
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1521.pdf
+  published: '2011-11-07T00:00:00'
+  reporter_id: '2'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:16:16'
+  docket_num: 10-1115
+  name: Cavazos v. Smith
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1115.pdf
+  published: '2011-10-31T00:00:00'
+  reporter_id: '1'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:16:18'
+  docket_num: 11-1240
+  name: FCC v. CBS Corp.
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-1240Ginsburg7b8h.pdf
+  published: '2012-06-29T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:16:19'
+  docket_num: 11-1240
+  name: FCC v. CBS Corp.
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-1240Roberts6a9j.pdf
+  published: '2012-06-29T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:16:19'
+  docket_num: 11-998
+  name: Mount Soledad Memorial Assn. v. Trunk
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-998d2a7.pdf
+  published: '2012-06-25T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:16:20'
+  docket_num: 11-7185
+  name: Fairey v. Tucker
+  part_num: 567/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-7185.pdf
+  published: '2012-06-18T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:16:21'
+  docket_num: 11A762
+  name: American Tradition Partnership, Inc. v. Bullock
+  part_num: 565/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11a762_f20g.pdf
+  published: '2012-02-17T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:16:21'
+  docket_num: 10-1548
+  name: Cash v. Maxwell
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1548Scalia.pdf
+  published: '2012-01-09T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:16:22'
+  docket_num: 10-1548
+  name: Cash v. Maxwell
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1548Sotomayor.pdf
+  published: '2012-01-09T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:16:23'
+  docket_num: 11A501
+  name: Doe v. Reed
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11A501.pdf
+  published: '2011-11-21T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:16:23'
+  docket_num: 11-6391
+  name: Buck v. Thaler
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-6391Sotomayor.pdf
+  published: '2011-11-07T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:16:24'
+  docket_num: 11-6391
+  name: Buck v. Thaler
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/11-6391Alito.pdf
+  published: '2011-11-07T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:16:25'
+  docket_num: 10-1276
+  name: Utah Highway Patrol v. American Atheists, Inc.
+  part_num: 565/1
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/10-1276.pdf
+  published: '2011-10-31T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:16:28'
+  docket_num: 12A48
+  name: Maryland v. King
+  part_num: 567/2
+  pdf_url: http://www.supremecourt.gov/opinions/11pdf/12A48c3d7.pdf
+  published: '2012-07-30T00:00:00'
+  reporter_id: null
+  type: in-chambers
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:16:29'
+  docket_num: 11-5001
+  name: Leal Garcia v. Texas
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/11-5001.pdf
+  published: '2011-07-07T00:00:00'
+  reporter_id: '85'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:16:30'
+  docket_num: 09-940
+  name: United States v. Juvenile Male
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-940.pdf
+  published: '2011-06-27T00:00:00'
+  reporter_id: '84'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:16:31'
+  docket_num: 10-76
+  name: Goodyear Dunlop Tires Operations, S. A. v. Brown
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-76.pdf
+  published: '2011-06-27T00:00:00'
+  reporter_id: '83'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:16:35'
+  docket_num: 09-1343
+  name: J. McIntyre Machinery, Ltd. v. Nicastro
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1343.pdf
+  published: '2011-06-27T00:00:00'
+  reporter_id: '82'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.isri.org/imis15_prod/core/directory.aspx
+  - ok: null
+    reviewer: null
+    url: http://www.census.gov/foreign-trade/Press-Release/current_press_release/ft900.pdf
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:16:42'
+  docket_num: 08-1448
+  name: Brown v. Entertainment Merchants Assn.
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/08-1448.pdf
+  published: '2011-06-27T00:00:00'
+  reporter_id: '81'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ftc.gov/os/2009/12/P994511violententertainment.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.ftc.gov/os/2004/07/040708kidsviolencerpt.pdf
+  - ok: null
+    reviewer: null
+    url: http://killscreendaily.com/articles/visual-games-photorealism-crisis.8To
+  - ok: null
+    reviewer: null
+    url: http://www.gametrailers.com/video/game-of-spike-tv-vga/707755?type=flv
+  - ok: null
+    reviewer: null
+    url: http://www.slashgear.com/sony-ps3-launching-50-3d-capable-video-games-in-the-near-future-23115866
+  - ok: null
+    reviewer: null
+    url: http://www.popularmechanics.com/technology/digital/gaming/4342437
+  - ok: null
+    reviewer: null
+    url: http://www.engadget.com/2008/03/09/the-mindwire-v5-turns-gaming-into-pure-electroshock-torture
+  - ok: null
+    reviewer: null
+    url: http://www.scientificamerican.com/article.cfm?id=video-game-vest-simulates
+  - ok: null
+    reviewer: null
+    url: http://www.pcmag.com/article2/0,2817,2379959,00.asp
+  - ok: null
+    reviewer: null
+    url: http://www.askmen.com/top_10/videogame/top-10-most-violent-video-games.html
+  - ok: null
+    reviewer: null
+    url: http://gamingbolt.com/15-most-violent-video-games-that-made-you-puke
+  - ok: null
+    reviewer: null
+    url: http://newsfeed.time.com/2011/04/20/school-shooter-video-game-reenacts-columbine-virginia-tech-killings
+  - ok: null
+    reviewer: null
+    url: http://ssnat.com.15Lah
+  - ok: null
+    reviewer: null
+    url: http://articles.cnn.com/2010-03-30/world/japan.video?_s=PM:WORLD
+  - ok: null
+    reviewer: null
+    url: http://www.wired.com/culture/lifestyle/news/2002/02/50523.18Thompson
+  - ok: null
+    reviewer: null
+    url: "http://www.slate.com/id/2110034.\f16"
+  - ok: null
+    reviewer: null
+    url: http://www.esrb.org/ratings/&ratings_process.jsp
+  - ok: null
+    reviewer: null
+    url: http://www.census.gov/prod/2010pubs/p70-121.pdf
+  - ok: null
+    reviewer: null
+    url: "http://articles.cnn.com/2001\u201311\u20132/tech/2war.games_1_ict-bill-swartout-real-world-training?_s=PM:TECH"
+  - ok: null
+    reviewer: null
+    url: http://www.aap.org/advocacy/releases/jstmtevc.htm
+  - ok: null
+    reviewer: null
+    url: http://www.apa.org/about/governance/council/policy/interactive-media.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.ftc.gov/os/2004/07/040708kidsviolencerpt.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.ftc.gov/os/2009/12/P994511violententertainment.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.youtube.com/watch?v=CFlVfVmvN6k
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:16:56'
+  docket_num: 10-238
+  name: "Arizona Free Enterprise Club\u2019s Freedom Club PAC v. Bennett"
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-238.pdf
+  published: '2011-06-27T00:00:00'
+  reporter_id: '80'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.azsos.gov/election/2010/Info/Campaign_Contribution
+  - ok: null
+    reviewer: null
+    url: http://www.azcleanelections.gov/about-us/get-involved.aspx)
+  - ok: null
+    reviewer: null
+    url: http://www.fec.gov/press/press2009/20090608PresStat.shtml
+  - ok: null
+    reviewer: null
+    url: http://www.fec.gov/press/bkgnd/fund.shtml
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:17:08'
+  docket_num: 10-235
+  name: CSX Transp., Inc. v. McBride
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-235.pdf
+  published: '2011-06-23T00:00:00'
+  reporter_id: '79'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:17:15'
+  docket_num: 09-10876
+  name: Bullcoming v. New Mexico
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-10876.pdf
+  published: '2011-06-23T00:00:00'
+  reporter_id: '78'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.gazette.com/articles/report-97354-police-discuss.html
+  - ok: null
+    reviewer: null
+    url: http://www.nmcpr.state.nm.us/nmac/_title07/T07C033.htm
+  - ok: null
+    reviewer: null
+    url: "http://www.michigan.gov/msp/0,1607,7-123\xAD1593_3800-15901--,00.html"
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:17:22'
+  docket_num: 09-993
+  name: PLIVA, Inc. v. Mensing
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-993.pdf
+  published: '2011-06-23T00:00:00'
+  reporter_id: '77'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: "http://aspe.hhs.gov/sp/reports/2010/GenericDrugs/ib.pdf\f4"
+  - ok: null
+    reviewer: null
+    url: http://www.cbo.gov/ftpdoc/118xx/doc11838/09-15-PrescriptionDrugs.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.cbo.gov/ftpdocs/6xx/doc655/pharm.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.gphaonline.org/about-gpha/about-generics/faq
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:17:29'
+  docket_num: 10-779
+  name: Sorrell v. IMS Health Inc.
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-779.pdf
+  published: '2011-06-23T00:00:00'
+  reporter_id: '76'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.med.uvm.edu/ahec/downloads/VTAD_overview_2010.07
+  - ok: null
+    reviewer: null
+    url: http://www.tnr.com/article/84056/health-care-eli-lilly-pfizer-ama)
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:17:38'
+  docket_num: 09-10245
+  name: Freeman v. United States
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-10245.pdf
+  published: '2011-06-23T00:00:00'
+  reporter_id: '75'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:17:43'
+  docket_num: 10-179
+  name: Stern v. Marshall
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-179.pdf
+  published: '2011-06-23T00:00:00'
+  reporter_id: '74'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:17:54'
+  docket_num: 10-10
+  name: Turner v. Rogers
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-10.pdf
+  published: '2011-06-20T00:00:00'
+  reporter_id: '73'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://aspe.hhs.gov/hsp/07/assessing-CS-debt/report.pdf
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:18:00'
+  docket_num: 10-174
+  name: American Elec. Power Co. v. Connecticut
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-174.pdf
+  published: '2011-06-20T00:00:00'
+  reporter_id: '72'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:18:04'
+  docket_num: 09-1476
+  name: Borough of Duryea v. Guarnieri
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1476.pdf
+  published: '2011-06-20T00:00:00'
+  reporter_id: '71'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:18:09'
+  docket_num: 10-277
+  name: Wal-Mart Stores, Inc. v. Dukes
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-277.pdf
+  published: '2011-06-20T00:00:00'
+  reporter_id: '70'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:18:17'
+  docket_num: 10-5400
+  name: Tapia v. United States
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-5400.pdf
+  published: '2011-06-16T00:00:00'
+  reporter_id: '69'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:18:21'
+  docket_num: 09-1205
+  name: Smith v. Bayer Corp.
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1205.pdf
+  published: '2011-06-16T00:00:00'
+  reporter_id: '68'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:18:25'
+  docket_num: 09-11121
+  name: J. D. B. v. North Carolina
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-11121.pdf
+  published: '2011-06-16T00:00:00'
+  reporter_id: '67'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www2.fbi.gov/ucr/cius2008/data/table_38.html
+  - ok: null
+    reviewer: null
+    url: http://www.nlada.org/DMS/Documents/1211996548.53/Polling%20results%20report.pdf
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:18:32'
+  docket_num: 09-11328
+  name: Davis v. United States
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-11328.pdf
+  published: '2011-06-16T00:00:00'
+  reporter_id: '66'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:18:37'
+  docket_num: 09-1227
+  name: Bond v. United States
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1227.pdf
+  published: '2011-06-16T00:00:00'
+  reporter_id: '65'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:18:40'
+  docket_num: 09-5801
+  name: Flores-Villar v. United States
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-5801.pdf
+  published: '2011-06-13T00:00:00'
+  reporter_id: '64'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:18:41'
+  docket_num: 10-382
+  name: United States v. Jicarilla Apache Nation
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-382.pdf
+  published: '2011-06-13T00:00:00'
+  reporter_id: '63'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:18:50'
+  docket_num: 09-525
+  name: Janus Capital Group, Inc. v. First Derivative Traders
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-525.pdf
+  published: '2011-06-13T00:00:00'
+  reporter_id: '62'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.sec.gov/Archives/edgar/data/277751/000027775102000049/0000277751-02-000049.txt
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:18:55'
+  docket_num: 10-568
+  name: "Nevada Comm\u2019n on Ethics v. Carrigan"
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-568.pdf
+  published: '2011-06-13T00:00:00'
+  reporter_id: '61'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ncsl.org/?TabID=15357
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:18:58'
+  docket_num: 10-290
+  name: Microsoft Corp. v. i4i Ltd. Partnership
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-290.pdf
+  published: '2011-06-09T00:00:00'
+  reporter_id: '60'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.uspto.gov/web/offices/pac/mpep/old/E1R3_900.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.ftc.gov/os/2003/10/innovationrpt.pdf
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:19:03'
+  docket_num: 09-1533
+  name: DePierre v. United States
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1533.pdf
+  published: '2011-06-09T00:00:00'
+  reporter_id: '59'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:19:08'
+  docket_num: 10-313
+  name: Talk America, Inc. v. Michigan Bell Telephone Co.
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-313.pdf
+  published: '2011-06-09T00:00:00'
+  reporter_id: '58'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:19:11'
+  docket_num: 09-11311
+  name: Sykes v. United States
+  part_num: 564/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-11311.pdf
+  published: '2011-06-09T00:00:00'
+  reporter_id: '57'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.usfa.dhs.gov/downloads/pdf/tfrs/methodology.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.usfa.dhs.gov/downloads/pdf/statistics/nonres_bldg_intentional_fire_trends.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.usfa.dhs.gov/downloads/xls/estimates/res_bldg_fire_cause.xlsx
+  - ok: null
+    reviewer: null
+    url: http://www.usfa.dhs.gov/statistics/estimates/index.shtm
+  - ok: null
+    reviewer: null
+    url: http://www.usfa.dhs.gov/downloads/pdf/tfrs/v1i8-508.pdf(as
+- author_id: Elena Kagan
+  created: '2014-08-07T14:19:19'
+  docket_num: 10-114
+  name: Fox v. Vice
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-114.pdf
+  published: '2011-06-06T00:00:00'
+  reporter_id: '56'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:19:22'
+  docket_num: 10-5258
+  name: McNeill v. United States
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-5258.pdf
+  published: '2011-06-06T00:00:00'
+  reporter_id: '55'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:19:23'
+  docket_num: 09-1403
+  name: Erica P. John Fund, Inc. v. Halliburton Co.
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1403.pdf
+  published: '2011-06-06T00:00:00'
+  reporter_id: '54'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:19:25'
+  docket_num: 09-1159
+  name: Board of Trustees of Leland Stanford Junior Univ. v. Roche Molecular Systems,
+    Inc.
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1159.pdf
+  published: '2011-06-06T00:00:00'
+  reporter_id: '53'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:19:31'
+  docket_num: 10-6
+  name: Global-Tech Appliances, Inc. v. SEB S. A.
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-6.pdf
+  published: '2011-05-31T00:00:00'
+  reporter_id: '52'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:19:35'
+  docket_num: 10-98
+  name: Ashcroft v. al-Kidd
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-98.pdf
+  published: '2011-05-31T00:00:00'
+  reporter_id: '51'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:19:40'
+  docket_num: 09-1454
+  name: Camreta v. Greene
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1454.pdf
+  published: '2011-05-26T00:00:00'
+  reporter_id: '50'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:19:47'
+  docket_num: 10-5443
+  name: Fowler v. United States
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-5443.pdf
+  published: '2011-05-26T00:00:00'
+  reporter_id: '49'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.oed.com/view/Entry/151073?rskey=QWN6QB&result=2&isAdvanced=false
+  - ok: null
+    reviewer: null
+    url: http://bjs.ojp.usdoj.gov/fjsrc
+  - ok: null
+    reviewer: null
+    url: http://www2.fbi.gov/ucr/cius2008/arrests/index.html
+  - ok: null
+    reviewer: null
+    url: http://www2.fbi.gov/ucr/cius2008/data/table_29.html
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:19:52'
+  docket_num: 09-1498
+  name: United States v. Tinklenberg
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1498.pdf
+  published: '2011-05-26T00:00:00'
+  reporter_id: '48'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:19:55'
+  docket_num: 09-115
+  name: Chamber of Commerce of United States of America v. Whiting
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-115.pdf
+  published: '2011-05-26T00:00:00'
+  reporter_id: '47'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.uscis.gov/portal/site/uscis/menuitem/statistics(as
+  - ok: null
+    reviewer: null
+    url: http://www.uscis.gov/portal/site/uscis/menuitem.eb1d4c2a3e5b9a
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:20:06'
+  docket_num: 09-1233
+  name: Brown v. Plata
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1233.pdf
+  published: '2011-05-23T00:00:00'
+  reporter_id: '46'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=2093
+  - ok: null
+    reviewer: null
+    url: http://bjs.ojp.usdoj.gov/content/pub/pdf/mcdsp04.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.ucrdatatool.gov.12According
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:20:20'
+  docket_num: 09-1298
+  name: General Dynamics Corp. v. United States
+  part_num: 563/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1298.pdf
+  published: '2011-05-23T00:00:00'
+  reporter_id: '45'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:20:23'
+  docket_num: 09-1272
+  name: Kentucky v. King
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1272.pdf
+  published: '2011-05-16T00:00:00'
+  reporter_id: '44'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:20:28'
+  docket_num: 09-804
+  name: CIGNA Corp. v. Amara
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-804.pdf
+  published: '2011-05-16T00:00:00'
+  reporter_id: '43'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:20:33'
+  docket_num: 10-188
+  name: Schindler Elevator Corp. v. United States ex rel. Kirk
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-188.pdf
+  published: '2011-05-16T00:00:00'
+  reporter_id: '42'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.justice.gov/oip/annual_report/2010/cover.htm
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:20:36'
+  docket_num: 10-1000
+  name: Bobby v. Mitts
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-1000.pdf
+  published: '2011-05-02T00:00:00'
+  reporter_id: '41'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:20:37'
+  docket_num: 137, Orig.
+  name: Montana v. Wyoming
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/137Orig.pdf
+  published: '2011-05-02T00:00:00'
+  reporter_id: '40'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:20:42'
+  docket_num: 09-893
+  name: AT&T; Mobility LLC v. Concepcion
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-893.pdf
+  published: '2011-04-27T00:00:00'
+  reporter_id: '39'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.adr.org/si.asp?id=5027
+  - ok: null
+    reviewer: null
+    url: http://www.adr.org/sp.asp?id=21936
+  - ok: null
+    reviewer: null
+    url: http://www.adr.org/sp.asp?id=21936
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:20:48'
+  docket_num: 09-846
+  name: "United States v. Tohono O\u2019odham Nation"
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-846.pdf
+  published: '2011-04-26T00:00:00'
+  reporter_id: '38'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:20:53'
+  docket_num: 08-1438
+  name: Sossamon v. Texas
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/08-1438.pdf
+  published: '2011-04-20T00:00:00'
+  reporter_id: '37'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:20:59'
+  docket_num: 09-529
+  name: Virginia Office for Protection and Advocacy v. Stewart
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-529.pdf
+  published: '2011-04-19T00:00:00'
+  reporter_id: '36'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:21:05'
+  docket_num: 09-1088
+  name: Cullen v. Pinholster
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1088.pdf
+  published: '2011-04-04T00:00:00'
+  reporter_id: '35'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:21:19'
+  docket_num: 09-987
+  name: Arizona Christian School Tuition Organization v. Winn
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-987.pdf
+  published: '2011-04-04T00:00:00'
+  reporter_id: '34'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:21:26'
+  docket_num: 09-11556
+  name: Tolentino v. New York
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-11556.pdf
+  published: '2011-03-29T00:00:00'
+  reporter_id: '33'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:21:27'
+  docket_num: 09-1273
+  name: Astra USA, Inc. v. Santa Clara County
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1273.pdf
+  published: '2011-03-29T00:00:00'
+  reporter_id: '32'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:21:29'
+  docket_num: 09-571
+  name: Connick v. Thompson
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-571.pdf
+  published: '2011-03-29T00:00:00'
+  reporter_id: '31'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.law.tulane.edu
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:21:40'
+  docket_num: 09-1156
+  name: Matrixx Initiatives, Inc. v. Siracusano
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1156.pdf
+  published: '2011-03-22T00:00:00'
+  reporter_id: '30'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.fda.gov/downloads/RegulatingInformation/Guidances/UCM126834.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.fda.gov/downloads/safety/MedWatch/UCM168505.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.gao.gov/new.items/d06402.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm070434.htm
+  - ok: null
+    reviewer: null
+    url: http://druganddevicelaw.net/Annual%20Adverse%20Drug%20Experience
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:21:45'
+  docket_num: 09-834
+  name: Kasten v. Saint-Gobain Performance Plastics Corp.
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-834.pdf
+  published: '2011-03-22T00:00:00'
+  reporter_id: '29'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.dol.gov/compliance/laws/comp-flsa.htm(as
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:21:49'
+  docket_num: 10-797
+  name: Felkner v. Jackson
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-797.pdf
+  published: '2011-03-21T00:00:00'
+  reporter_id: '28'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:21:50'
+  docket_num: 09-1163
+  name: Milner v. Department of Navy
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1163.pdf
+  published: '2011-03-07T00:00:00'
+  reporter_id: '27'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:21:55'
+  docket_num: 09-868
+  name: Wall v. Kholi
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-868.pdf
+  published: '2011-03-07T00:00:00'
+  reporter_id: '26'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:21:58'
+  docket_num: 09-9000
+  name: Skinner v. Switzer
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-9000.pdf
+  published: '2011-03-07T00:00:00'
+  reporter_id: '25'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:22:02'
+  docket_num: 09-6822
+  name: Pepper v. United States
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-6822.pdf
+  published: '2011-03-02T00:00:00'
+  reporter_id: '24'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:22:10'
+  docket_num: 09-751
+  name: Snyder v. Phelps
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-751.pdf
+  published: '2011-03-02T00:00:00'
+  reporter_id: '23'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.fhwa.dot.gov/policyinformation/statistics/2008/hm12m.cfm
+  - ok: null
+    reviewer: null
+    url: http://www.tpl.org/content_documents/CityParkFacts_2010.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.usccb.org/comm/cip.shtml#toc4.5See
+  - ok: null
+    reviewer: null
+    url: http://www.godhatesfags.com/fliers/20110124_St-Petersburg-FL-Dead-Police.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.godhatesfags.com/fliers/20110120_Dead-Volunteer-Firefighter-Connecting_the_Dots-Baltimore-MD.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.godhatesfags.com/fliers/20110104_Newburg-and-Rolla-MO-Tornado-Connecting-the-Dots.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.godhatesfags.com/fliers/20101218_Wichita-KS-Two-Dead-Wichita-Bikers.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.godhatesfags.com/fliers/20110129_Tampa-FL-God-Sent-Military-Mom-Shooter-to-Kill-Kids.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.godhatesfags.com/fliers/20110109_AZ-Shooter-12See
+  - ok: null
+    reviewer: null
+    url: http://content.usatoday.com/communities/
+  - ok: null
+    reviewer: null
+    url: http://www.palmbeachpost.com/news/nation/group-to-picket-9-year-old-tucson-victims-1177921.html
+  - ok: null
+    reviewer: null
+    url: http://articles.latimes.com/2011/jan/11/nation/la-na-funeral-protest-20110112
+  - ok: null
+    reviewer: null
+    url: http://www.csmonitor.com/USA/2011/0111/Funeral-protest-Arizona-rallies-to-foil-Westboro-Baptist-Church
+  - ok: null
+    reviewer: null
+    url: http://articles.latimes.com/2011/jan/13/nation/la-na-funeral-protest-20110113
+  - ok: null
+    reviewer: null
+    url: http://www.godhatesfags.com/fliers/20110112_AZ-Shooter-Mike-Gallagher-Radio-Exchange.pdf
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:22:16'
+  docket_num: 09-1036
+  name: Henderson v. Shinseki
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1036.pdf
+  published: '2011-03-01T00:00:00'
+  reporter_id: '22'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://uscourts.cavc.gov/documents/Annual_Report_FY_2009_October_1_2008_to_September_30_2009.pdf
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:22:19'
+  docket_num: 09-400
+  name: Staub v. Proctor Hospital
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-400.pdf
+  published: '2011-03-01T00:00:00'
+  reporter_id: '21'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:22:22'
+  docket_num: 09-1279
+  name: FCC v. AT&T; Inc.
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1279.pdf
+  published: '2011-03-01T00:00:00'
+  reporter_id: '20'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:22:24'
+  docket_num: 09-150
+  name: Michigan v. Bryant
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-150.pdf
+  published: '2011-02-28T00:00:00'
+  reporter_id: '19'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www2.fbi.gov/ucr/cius2009/offenses/expanded_information/data/shrtable_04.html
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:22:32'
+  docket_num: 08-1314
+  name: Williamson v. Mazda Motor of America, Inc.
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/08-1314.pdf
+  published: '2011-02-23T00:00:00'
+  reporter_id: '18'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:22:36'
+  docket_num: 09-996
+  name: Walker v. Martin
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-996.pdf
+  published: '2011-02-23T00:00:00'
+  reporter_id: '17'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.courtinfo.ca.gov/reference/documents/csr2010.pdf
+- author_id: Elena Kagan
+  created: '2014-08-07T14:22:39'
+  docket_num: 09-520
+  name: CSX Transportation, Inc. v. Alabama Dept. of Revenue
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-520.pdf
+  published: '2011-02-22T00:00:00'
+  reporter_id: '16'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:22:45'
+  docket_num: 09-152
+  name: Bruesewitz v. Wyeth LLC
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-152.pdf
+  published: '2011-02-22T00:00:00'
+  reporter_id: '15'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.hhs.gov/nvpo/nvac/documents/vaccine-safety-review.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.cdc.gov/vaccines/vac-gen/whatifstop.htm
+  - ok: null
+    reviewer: null
+    url: http://www.cdc.gov/mmwr/PDF/rr/rr5503.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.hhs.gov/nvpo/nvac/documents/vaccine-safety-review.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.aap.org/immunization/families/faq/Vaccineingredients.pdf
+  - ok: null
+    reviewer: null
+    url: "http://www.cdc.gov/\fCite"
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:22:55'
+  docket_num: 10-333
+  name: Swarthout v. Cooke
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-333.pdf
+  published: '2011-01-24T00:00:00'
+  reporter_id: '14'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:22:56'
+  docket_num: 09-329
+  name: Chase Bank USA, N. A. v. McCoy
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-329.pdf
+  published: '2011-01-24T00:00:00'
+  reporter_id: '13'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:23:00'
+  docket_num: 09-737
+  name: Ortiz v. Jordan
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-737.pdf
+  published: '2011-01-24T00:00:00'
+  reporter_id: '12'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:23:03'
+  docket_num: 09-291
+  name: Thompson v. North American Stainless, LP
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-291.pdf
+  published: '2011-01-24T00:00:00'
+  reporter_id: '11'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:23:04'
+  docket_num: 09-530
+  name: NASA v. Nelson
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-530.pdf
+  published: '2011-01-19T00:00:00'
+  reporter_id: '10'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.opm.gov/Forms/pdf_fill/sf85p.pdf;(all
+  - ok: null
+    reviewer: null
+    url: http://www.opm.gov/Forms/pdf_fill/sf86.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.jpl.nasa.gov/annualreport/2009-report.pdf
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:23:11'
+  docket_num: 09-658
+  name: Premo v. Moore
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-658.pdf
+  published: '2011-01-19T00:00:00'
+  reporter_id: '9'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:23:15'
+  docket_num: 09-587
+  name: Harrington v. Richter
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-587.pdf
+  published: '2011-01-19T00:00:00'
+  reporter_id: '8'
+  type: slip
+  urls: []
+- author_id: Elena Kagan
+  created: '2014-08-07T14:23:20'
+  docket_num: 09-907
+  name: Ransom v. FIA Card Services, N. A.
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-907.pdf
+  published: '2011-01-11T00:00:00'
+  reporter_id: '7'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.irs.gov/irm/part5/irm_05-015-001.html#d0e1012
+  - ok: null
+    reviewer: null
+    url: http://www.irs.gov/individuals/article/0,,id=96543,00.html
+  - ok: null
+    reviewer: null
+    url: http://www.irs.gov/irm/part5/
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:23:25'
+  docket_num: 09-837
+  name: Mayo Foundation for Medical Ed. and Research v. United States
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-837.pdf
+  published: '2011-01-11T00:00:00'
+  reporter_id: '6'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:23:28'
+  docket_num: 10-72
+  name: Madison County v. Oneida Indian Nation of N. Y.
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-72.pdf
+  published: '2011-01-10T00:00:00'
+  reporter_id: '5'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:23:28'
+  docket_num: 08-1423
+  name: Costco Wholesale Corp. v. Omega, S. A.
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/08-1423.pdf
+  published: '2010-12-13T00:00:00'
+  reporter_id: '4'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:23:29'
+  docket_num: 09-350
+  name: Los Angeles County v. Humphries
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-350.pdf
+  published: '2010-11-30T00:00:00'
+  reporter_id: '3'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:23:31'
+  docket_num: 09-479
+  name: Abbott v. United States
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-479.pdf
+  published: '2010-11-15T00:00:00'
+  reporter_id: '2'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:23:35'
+  docket_num: 10-91
+  name: Wilson v. Corcoran
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-91.pdf
+  published: '2010-11-08T00:00:00'
+  reporter_id: '1'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:23:36'
+  docket_num: 11-6029 (11A229)
+  name: Valle v. Florida
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/11-6029.pdf
+  published: '2011-09-28T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:23:37'
+  docket_num: 09-1395
+  name: Beer v. United States
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1395.pdf
+  published: '2011-06-28T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:23:37'
+  docket_num: 10-8373
+  name: Derby v. United States
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-8373.pdf
+  published: '2011-06-27T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:23:38'
+  docket_num: 10-775
+  name: Kiyemba v. Obama
+  part_num: 563/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-775.pdf
+  published: '2011-04-18T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:23:38'
+  docket_num: 10-388
+  name: Huber v. New Jersey Dept. of Environmental Protection
+  part_num: 562/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-388.pdf
+  published: '2011-03-21T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:23:39'
+  docket_num: 09-1555
+  name: Alderman v. United States
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1555.pdf
+  published: '2011-01-10T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:23:40'
+  docket_num: 10-24
+  name: Allen v. Lawhorn
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-24.pdf
+  published: '2010-12-13T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:23:42'
+  docket_num: 09-10382
+  name: Williams v. Hobbs
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-10382.pdf
+  published: '2010-12-06T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:23:43'
+  docket_num: 10-5196
+  name: Gamache v. California
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-5196.pdf
+  published: '2010-11-29T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:23:43'
+  docket_num: 10-94
+  name: Harper v. Maverick Recording Co.
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-94.pdf
+  published: '2010-11-29T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:23:44'
+  docket_num: 09-1031
+  name: Wong v. Smith
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-1031.pdf
+  published: '2010-11-01T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:23:45'
+  docket_num: 09-9515
+  name: Pitre v. Cain
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/09-9515.pdf
+  published: '2010-10-18T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:23:46'
+  docket_num: 10-67
+  name: Weise v. Casper
+  part_num: 562/1
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/10-67.pdf
+  published: '2010-10-12T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:23:47'
+  docket_num: 11A210 (11-5545)
+  name: Gray v. Kelly
+  part_num: 564/2
+  pdf_url: http://www.supremecourt.gov/opinions/10pdf/11A210.pdf
+  published: '2011-08-25T00:00:00'
+  reporter_id: null
+  type: in-chambers
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:23:47'
+  docket_num: 09-8854
+  name: Sears v. Upton
+  part_num: 561/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-8854.pdf
+  published: '2010-06-29T00:00:00'
+  reporter_id: '92'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:23:51'
+  docket_num: 08-1521
+  name: McDonald v. Chicago
+  part_num: 561/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1521.pdf
+  published: '2010-06-28T00:00:00'
+  reporter_id: '91'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://evl.fi/EVLen.nsf/Documents/838DDBEF4A28712AC225730F001F7C67?OpenDocument&lang=EN
+  - ok: null
+    reviewer: null
+    url: http://bjs.ojp.usdoj.gov/content/pub/pdf/sco04.pdf
+  - ok: null
+    reviewer: null
+    url: http://ssrn.com/abstract=1557870(as
+  - ok: null
+    reviewer: null
+    url: http://www.lcav.org/publications-briefs/regulating_guns
+  - ok: null
+    reviewer: null
+    url: http://www.fbi.gov/ucr/killed/2006/
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:24:22'
+  docket_num: 08-1371
+  name: Christian Legal Soc. Chapter of Univ. of Cal., Hastings College of Law v.
+    Martinez
+  part_num: 561/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1371.pdf
+  published: '2010-06-28T00:00:00'
+  reporter_id: '90'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.law.georgetown.edu/StudentLife/StudentOrgs/NewGroup.htm
+  - ok: null
+    reviewer: null
+    url: http://law.hofstra.edu/pdf/StudentLife/StudentAffairs/Handbook/
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:24:37'
+  docket_num: 08-964
+  name: Bilski v. Kappos
+  part_num: 561/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-964.pdf
+  published: '2010-06-28T00:00:00'
+  reporter_id: '89'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.uspto.gov/web/menu/busmethp/index.html
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:24:47'
+  docket_num: 08-861
+  name: Free Enterprise Fund v. Public Company Accounting Oversight Bd.
+  part_num: 561/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-861.pdf
+  published: '2010-06-28T00:00:00'
+  reporter_id: '88'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.signingstatementsaba_final_signing_statements_recommendations-report_7-24-06.pdf
+  - ok: null
+    reviewer: null
+    url: http://vanderbiltlawreview.org/articles/2009/11/Bruff-62-Vand-L-Rev-En-Banc-63.pdf
+  - ok: null
+    reviewer: null
+    url: http://vanderbiltlawreview.org1/articles/2009/11/Pildes-62-Vand-L-Rev-En-Banc-85.pdf
+  - ok: null
+    reviewer: null
+    url: "http://www.justice.gov/olc/2007/appointmentsclausev10.pdf(\u201C[T]he"
+  - ok: null
+    reviewer: null
+    url: http://www.opm.gov/ses/about_ses/index.asp
+  - ok: null
+    reviewer: null
+    url: http://siadapp.dmdc.osd.mil/personnel/MILITARY/rg1004.pdf
+  - ok: null
+    reviewer: null
+    url: http://justice.gov/olc/2009/gas-transport-project.pdf
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:25:09'
+  docket_num: 08-1196
+  name: Weyhrauch v. United States
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1196.pdf
+  published: '2010-06-24T00:00:00'
+  reporter_id: '87'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:25:10'
+  docket_num: 08-876
+  name: Black v. United States
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-876.pdf
+  published: '2010-06-24T00:00:00'
+  reporter_id: '86'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:25:12'
+  docket_num: 08-1394
+  name: Skilling v. United States
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1394Reissue.pdf
+  published: '2010-06-24T00:00:00'
+  reporter_id: '85'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:25:33'
+  docket_num: 09-158
+  name: Magwood v. Patterson
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-158.pdf
+  published: '2010-06-24T00:00:00'
+  reporter_id: '84'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:25:39'
+  docket_num: 08-1214
+  name: Granite Rock Co. v. Teamsters
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1214.pdf
+  published: '2010-06-24T00:00:00'
+  reporter_id: '83'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:25:46'
+  docket_num: 08-1191
+  name: Morrison v. National Australia Bank Ltd.
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1191.pdf
+  published: '2010-06-24T00:00:00'
+  reporter_id: '82'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:25:54'
+  docket_num: 09-559
+  name: Doe v. Reed
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-559.pdf
+  published: '2010-06-24T00:00:00'
+  reporter_id: '81'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.atg.wa.gov/AGOOpinions/opinion.aspx?section=topic&id=10488
+  - ok: null
+    reviewer: null
+    url: http://blogs.sos.wa.gov/FromOurCorner/index.php/2009/09/the-disclosure-history-of-petition-sheets/
+  - ok: null
+    reviewer: null
+    url: http://www.iandrinstitute.org/IRI%20Initiative%20Use%20%281904=2008%29.pdf
+  - ok: null
+    reviewer: null
+    url: http://wei.secstate.wa.gov/osos/VoterVault/Pages/MyVote.aspx
+  - ok: null
+    reviewer: null
+    url: http://www.iandrinstitute.org/IRI%20Initiative%20Use%20(1904-2008).pdf
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:26:03'
+  docket_num: 09-475
+  name: Monsanto Co. v. Geertson Seed Farms
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-475.pdf
+  published: '2010-06-21T00:00:00'
+  reporter_id: '80'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.aphis.usda.gov/brs/pdf/complete_eis.pdf
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:26:11'
+  docket_num: 08-1553
+  name: Kawasaki Kisen Kaisha Ltd. v. Regal-Beloit Corp.
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1553.pdf
+  published: '2010-06-21T00:00:00'
+  reporter_id: '79'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:26:20'
+  docket_num: 09-497
+  name: Rent-A-Center, West, Inc. v. Jackson
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-497.pdf
+  published: '2010-06-21T00:00:00'
+  reporter_id: '78'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:26:25'
+  docket_num: 08-1498
+  name: Holder v. Humanitarian Law Project
+  part_num: 561/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1498.pdf
+  published: '2010-06-21T00:00:00'
+  reporter_id: '77'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:26:35'
+  docket_num: 09-6338
+  name: Dillon v. United States
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-6338.pdf
+  published: '2010-06-17T00:00:00'
+  reporter_id: '76'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:26:41'
+  docket_num: 08-538
+  name: Schwab v. Reilly
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-538.pdf
+  published: '2010-06-17T00:00:00'
+  reporter_id: '75'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.justice.gov/ust/eo/private_trustee/library/chapter07/docs/7handbook1008/Ch7_Handbook.pdf
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:26:49'
+  docket_num: 08-1332
+  name: Ontario v. Quon
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1332.pdf
+  published: '2010-06-17T00:00:00'
+  reporter_id: '74'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:26:53'
+  docket_num: 08-1151
+  name: Stop the Beach Renourishment, Inc. v. Florida Dept. of Environmental Protection
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1151.pdf
+  published: '2010-06-17T00:00:00'
+  reporter_id: '73'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:27:01'
+  docket_num: 08-1457
+  name: New Process Steel, L. P. v. NLRB
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1457.pdf
+  published: '2010-06-17T00:00:00'
+  reporter_id: '72'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:27:06'
+  docket_num: 09-5327
+  name: Holland v. Florida
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-5327.pdf
+  published: '2010-06-14T00:00:00'
+  reporter_id: '71'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:27:15'
+  docket_num: 09-367
+  name: Dolan v. United States
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-367.pdf
+  published: '2010-06-14T00:00:00'
+  reporter_id: '70'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:27:19'
+  docket_num: 08-1322
+  name: Astrue v. Ratliff
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1322.pdf
+  published: '2010-06-14T00:00:00'
+  reporter_id: '69'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:27:24'
+  docket_num: 09-60
+  name: Carachuri-Rosendo v. Holder
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-60.pdf
+  published: '2010-06-14T00:00:00'
+  reporter_id: '68'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.justice.gov/usao/eousa/foia_reading_room/usam/title9/27mcrm.htm#9-27.300
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:27:29'
+  docket_num: 09-940
+  name: United States v. Juvenile Male
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-940.pdf
+  published: '2010-06-07T00:00:00'
+  reporter_id: '67'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:27:30'
+  docket_num: 09-337
+  name: Krupski v. Costa Crociere S. p. A.
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-337.pdf
+  published: '2010-06-07T00:00:00'
+  reporter_id: '66'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:27:34'
+  docket_num: 08-998
+  name: Hamilton v. Lanning
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-998.pdf
+  published: '2010-06-07T00:00:00'
+  reporter_id: '65'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.uscourts.gov/RulesAndPolicies/FederalRulemaking/Overview/BankruptcyRules.aspx
+  - ok: null
+    reviewer: null
+    url: http://www.ch13online.com/Subscriber/Chapter_13_Bankruptcy_4th_Lundin_Brown.htm
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:27:39'
+  docket_num: 09-5201
+  name: Barber v. Thomas
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-5201.pdf
+  published: '2010-06-07T00:00:00'
+  reporter_id: '64'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://bjs.ojp.usdoj.gov/content/pub/pdf/shsplj.pdf
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:27:44'
+  docket_num: 08-1301
+  name: Carr v. United States
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1301.pdf
+  published: '2010-06-01T00:00:00'
+  reporter_id: '63'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.state.co.us/gov_dir/leg_dir/olls/LDM/OLLS_Drafting_Manual.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.state.hi.us/lrb/rpts96/dftman.pdfthe
+  - ok: null
+    reviewer: null
+    url: http://www.legis.state.wv.us/joint/Bill_Drafting/Drafting_Manual.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.lsc.state.oh.us/rules/rdm06_06.pdf
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:27:51'
+  docket_num: 09-223
+  name: Levin v. Commerce Energy, Inc.
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-223.pdf
+  published: '2010-06-01T00:00:00'
+  reporter_id: '62'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:27:56'
+  docket_num: 08-1470
+  name: Berghuis v. Thompkins
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1470.pdf
+  published: '2010-06-01T00:00:00'
+  reporter_id: '61'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:28:03'
+  docket_num: 132, Orig.
+  name: Alabama v. North Carolina
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/132Orig.pdf
+  published: '2010-06-01T00:00:00'
+  reporter_id: '60'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:28:10'
+  docket_num: 08-1555
+  name: Samantar v. Yousuf
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1555.pdf
+  published: '2010-06-01T00:00:00'
+  reporter_id: '59'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:28:15'
+  docket_num: 09-8852
+  name: Jefferson v. Upton
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-8852.pdf
+  published: '2010-05-24T00:00:00'
+  reporter_id: '58'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:28:19'
+  docket_num: 08-6261
+  name: Robertson v. United States ex rel. Watson
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-6261.pdf
+  published: '2010-05-24T00:00:00'
+  reporter_id: '57'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:28:21'
+  docket_num: 08-1341
+  name: United States v. Marcus
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1341.pdf
+  published: '2010-05-24T00:00:00'
+  reporter_id: '56'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:28:23'
+  docket_num: 09-448
+  name: Hardt v. Reliance Standard Life Ins. Co.
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-448.pdf
+  published: '2010-05-24T00:00:00'
+  reporter_id: '55'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:28:26'
+  docket_num: 08-1569
+  name: "United States v. O\u2019Brien"
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1569.pdf
+  published: '2010-05-24T00:00:00'
+  reporter_id: '54'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:28:31'
+  docket_num: 08-974
+  name: Lewis v. Chicago
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-974.pdf
+  published: '2010-05-24T00:00:00'
+  reporter_id: '53'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:28:33'
+  docket_num: 08-661
+  name: American Needle, Inc. v. National Football League
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-661.pdf
+  published: '2010-05-24T00:00:00'
+  reporter_id: '52'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:28:37'
+  docket_num: 08-7621
+  name: Sullivan v. Florida
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-7621.pdf
+  published: '2010-05-17T00:00:00'
+  reporter_id: '51'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:28:38'
+  docket_num: 08-1224
+  name: United States v. Comstock
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1224.pdf
+  published: '2010-05-17T00:00:00'
+  reporter_id: '50'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://bjs.ojp.usdoj.gov/content/pub/pdf/p08.pdf/
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:28:47'
+  docket_num: 08-7412
+  name: Graham v. Florida
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-7412Modified.pdf
+  published: '2010-05-17T00:00:00'
+  reporter_id: '49'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://ojjdp.ncjrs.org/ojstatbb/
+  - ok: null
+    reviewer: null
+    url: http://www.crin.org/resources/infoDetail.asp?ID=19806)
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:29:01'
+  docket_num: 08-645
+  name: Abbott v. Abbott
+  part_num: 560/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-645.pdf
+  published: '2010-05-17T00:00:00'
+  reporter_id: '48'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: "http://www.prevent-abuse\xADnow.com/unreport.htm"
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:29:10'
+  docket_num: 08-1529
+  name: Hui v. Castaneda
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1529.pdf
+  published: '2010-05-03T00:00:00'
+  reporter_id: '47'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:29:13'
+  docket_num: 09-338
+  name: Renico v. Lett
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-338.pdf
+  published: '2010-05-03T00:00:00'
+  reporter_id: '46'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.icmelearning.com/jtm
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:29:19'
+  docket_num: 08-472
+  name: Salazar v. Buono
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-472.pdf
+  published: '2010-04-28T00:00:00'
+  reporter_id: '45'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.nps.gov/history/history/online_books/moja/adhi.htm
+  - ok: null
+    reviewer: null
+    url: http://www.nps.gov/moja/planyourvisit/hours.htm
+  - ok: null
+    reviewer: null
+    url: http://www.abmc.gov/cemeteries/cemeteries.php
+  - ok: null
+    reviewer: null
+    url: http://www.cem.va.gov/hm/hmemb.asp
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:29:29'
+  docket_num: 08-1198
+  name: "Stolt-Nielsen S. A. v. AnimalFeeds Int\u2019l Corp."
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1198.pdf
+  published: '2010-04-27T00:00:00'
+  reporter_id: '44'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:29:37'
+  docket_num: 08-905
+  name: Merck & Co. v. Reynolds
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-905.pdf
+  published: '2010-04-27T00:00:00'
+  reporter_id: '43'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:29:42'
+  docket_num: 08-1200
+  name: Jerman v. Carlisle, McNellie, Rini, Kramer & Ulrich LPA
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1200.pdf
+  published: '2010-04-21T00:00:00'
+  reporter_id: '42'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ftc.gov/os/statutes/fdcpajump.shtm
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:29:53'
+  docket_num: 08-970
+  name: Perdue v. Kenny A.
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-970.pdf
+  published: '2010-04-21T00:00:00'
+  reporter_id: '41'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.georgia.gov/vgn/images/portal/cit_1210/7/22/84622967effectiveness2003.pdf
+  - ok: null
+    reviewer: null
+    url: http://gachildadvocate.org/
+  - ok: null
+    reviewer: null
+    url: http://www.georgia.gov/vgn/images/portal/cit_1210/31/23/102387685OCA%20Effectiveness%20Report%202004-2005.doc
+  - ok: null
+    reviewer: null
+    url: http://oca.georgia.gov/vgn/images/portal/cit_1210/48/0/131408008OCA%202008%20Annual%20Report.pdf
+  - ok: null
+    reviewer: null
+    url: http://grants.nih.gov/grants/guide/rfa-files/RFA-OD-99-06.html))
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:30:00'
+  docket_num: 08-810
+  name: Conkright v. Frommert
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-810.pdf
+  published: '2010-04-21T00:00:00'
+  reporter_id: '40'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:30:06'
+  docket_num: 08-769
+  name: United States v. Stevens
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-769.pdf
+  published: '2010-04-20T00:00:00'
+  reporter_id: '39'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:30:14'
+  docket_num: 08-1008
+  name: Shady Grove Orthopedic Associates, P. A. v. Allstate Ins. Co.
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1008.pdf
+  published: '2010-03-31T00:00:00'
+  reporter_id: '38'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:30:28'
+  docket_num: 08-651
+  name: Padilla v. Kentucky
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-651.pdf
+  published: '2010-03-31T00:00:00'
+  reporter_id: '37'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://courts.ky.gov/NR/rdonlyres/55E1F54E-ED5C-4A30-B1D5-4C43C7ADD63C/0/491.pdf
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:30:36'
+  docket_num: 08-586
+  name: Jones v. Harris Associates L. P.
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-586.pdf
+  published: '2010-03-30T00:00:00'
+  reporter_id: '36'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.icifactbook.org/pdf/2009_factbook.pdf
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:30:40'
+  docket_num: 08-1402
+  name: Berghuis v. Smith
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1402.pdf
+  published: '2010-03-30T00:00:00'
+  reporter_id: '35'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:30:45'
+  docket_num: 08-304
+  name: Graham County Soil and Water Conservation Dist. v. United States ex rel. Wilson
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-304.pdf
+  published: '2010-03-30T00:00:00'
+  reporter_id: '34'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:30:52'
+  docket_num: 08-1134
+  name: United Student Aid Funds, Inc. v. Espinosa
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1134.pdf
+  published: '2010-03-23T00:00:00'
+  reporter_id: '33'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:30:56'
+  docket_num: 08-1119
+  name: Milavetz, Gallop & Milavetz, P. A. v. United States
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1119.pdf
+  published: '2010-03-08T00:00:00'
+  reporter_id: '32'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:31:02'
+  docket_num: 08-728
+  name: Bloate v. United States
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-728.pdf
+  published: '2010-03-08T00:00:00'
+  reporter_id: '31'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:31:09'
+  docket_num: 08-240
+  name: Mac's Shell Service, Inc. v. Shell Oil Products Co.
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-240.pdf
+  published: '2010-03-02T00:00:00'
+  reporter_id: '30'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:31:13'
+  docket_num: 08-103
+  name: Reed Elsevier, Inc. v. Muchnick
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-103.pdf
+  published: '2010-03-02T00:00:00'
+  reporter_id: '29'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:31:17'
+  docket_num: 08-6925
+  name: Johnson v. United States
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-6925.pdf
+  published: '2010-03-02T00:00:00'
+  reporter_id: '28'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:31:21'
+  docket_num: 08-1234
+  name: Kiyemba v. Obama
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1234.pdf
+  published: '2010-03-01T00:00:00'
+  reporter_id: '27'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:31:21'
+  docket_num: 08-680
+  name: Maryland v. Shatzer
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-680.pdf
+  published: '2010-02-24T00:00:00'
+  reporter_id: '26'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://dpscs.md.gov/rehabservs/doc/pdfs/2007_Inmate_Handbook.pdf
+  - ok: null
+    reviewer: null
+    url: http://dpscs.md.gov/locations/mcih.shtml
+  - ok: null
+    reviewer: null
+    url: http://www.dpscs.state.md.us/locations/rci.shtml
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:31:28'
+  docket_num: 08-1107
+  name: Hertz Corp. v. Friend
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1107.pdf
+  published: '2010-02-23T00:00:00'
+  reporter_id: '25'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.sec.gov/about/forms/form10-k.pdf
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:31:32'
+  docket_num: 08-1175
+  name: Florida v. Powell
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1175.pdf
+  published: '2010-02-23T00:00:00'
+  reporter_id: '24'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:31:38'
+  docket_num: 09-273
+  name: Thaler v. Haynes
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-273.pdf
+  published: '2010-02-22T00:00:00'
+  reporter_id: '23'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:31:39'
+  docket_num: 08-10914
+  name: Wilkins v. Gaddy
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-10914.pdf
+  published: '2010-02-22T00:00:00'
+  reporter_id: '22'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:31:40'
+  docket_num: 07-11191
+  name: Briscoe v. Virginia
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/07-11191.pdf
+  published: '2010-01-25T00:00:00'
+  reporter_id: '21'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:31:41'
+  docket_num: 08-969
+  name: Hemi Group, LLC v. City of New York
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-969.pdf
+  published: '2010-01-25T00:00:00'
+  reporter_id: '20'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.justice.gov/usao/eousa/foia_reading_room/usam/title6/4mtax.htm(as
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:31:46'
+  docket_num: 08-205
+  name: Citizens United v. Federal Election Comm'n
+  part_num: 558/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-205.pdf
+  published: '2010-01-21T00:00:00'
+  reporter_id: '19'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.fec.gov/press/press2007/20071009pac/sumhistory.pdf)
+  - ok: null
+    reviewer: null
+    url: http://fec.gov/finance/disclosure/ECSummary.shtml(all
+  - ok: null
+    reviewer: null
+    url: http://fec.gov/press/press2008/20080812paccount.shtml
+  - ok: null
+    reviewer: null
+    url: http://www.cupvf.org/.40So
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:32:17'
+  docket_num: 08-9156
+  name: Wood v. Allen
+  part_num: 558/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-9156.pdf
+  published: '2010-01-20T00:00:00'
+  reporter_id: '18'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:32:21'
+  docket_num: 138, Orig.
+  name: South Carolina v. North Carolina
+  part_num: 558/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/138Orig.pdf
+  published: '2010-01-20T00:00:00'
+  reporter_id: '17'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:32:27'
+  docket_num: 08-911
+  name: Kucana v. Holder
+  part_num: 558/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-911.pdf
+  published: '2010-01-20T00:00:00'
+  reporter_id: '16'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:32:32'
+  docket_num: 09-5731
+  name: Wellons v. Hall
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-5731.pdf
+  published: '2010-01-19T00:00:00'
+  reporter_id: '15'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:32:34'
+  docket_num: 09-5270
+  name: Presley v. Georgia
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-5270.pdf
+  published: '2010-01-19T00:00:00'
+  reporter_id: '14'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:32:36'
+  docket_num: 09A648
+  name: Hollingsworth v. Perry
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09A648.pdf
+  published: '2010-01-13T00:00:00'
+  reporter_id: '13'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ca9.uscourts.gov/datastore/general/2010/01/08/Prop8_Remote_Viewing_Locations.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.ca9.uscourts.gov/datastore/general/2010/01/08/Prop8_
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:32:40'
+  docket_num: 08-674
+  name: NRG Power Marketing, LLC v. Maine Pub. Util. Comm'n
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-674.pdf
+  published: '2010-01-13T00:00:00'
+  reporter_id: '12'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:32:44'
+  docket_num: 08-724
+  name: Smith v. Spisak
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-724.pdf
+  published: '2010-01-12T00:00:00'
+  reporter_id: '11'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:32:48'
+  docket_num: 08-559
+  name: McDaniel v. Brown
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-559.pdf
+  published: '2010-01-11T00:00:00'
+  reporter_id: '10'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:32:51'
+  docket_num: 08-678
+  name: Mohawk Industries, Inc. v. Carpenter
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-678.pdf
+  published: '2009-12-08T00:00:00'
+  reporter_id: '9'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:32:54'
+  docket_num: 08-351
+  name: Alvarez v. Smith
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-351.pdf
+  published: '2009-12-08T00:00:00'
+  reporter_id: '8'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:32:56'
+  docket_num: 08-604
+  name: Union Pacific R. Co. v. Locomotive Engineers and Trainmen Gen. Comm. of Adjustment,
+    Central Region
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-604.pdf
+  published: '2009-12-08T00:00:00'
+  reporter_id: '7'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.nmb.gov/arbitration/nrab-instruc.pdf
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:33:00'
+  docket_num: 08-992
+  name: Beard v. Kindler
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-992.pdf
+  published: '2009-12-08T00:00:00'
+  reporter_id: '6'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:33:06'
+  docket_num: 09-91
+  name: Michigan v. Fisher
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-91.pdf
+  published: '2009-12-07T00:00:00'
+  reporter_id: '5'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:33:07'
+  docket_num: 08-10537
+  name: Porter v. McCollum
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-10537.pdf
+  published: '2009-11-30T00:00:00'
+  reporter_id: '4'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:33:10'
+  docket_num: 08-1263
+  name: Wong v. Belmontes
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1263.pdf
+  published: '2009-11-16T00:00:00'
+  reporter_id: '3'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:33:13'
+  docket_num: 09-144
+  name: Bobby v. Van Hook
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-144.pdf
+  published: '2009-11-09T00:00:00'
+  reporter_id: '2'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:33:14'
+  docket_num: 08-10495
+  name: Corcoran v. Levenhagen
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-10495.pdf
+  published: '2009-10-20T00:00:00'
+  reporter_id: '1'
+  type: slip
+  urls: []
+- author_id: Sonia Sotomayor
+  created: '2014-08-07T14:33:15'
+  docket_num: 09-9634
+  name: Wrotten v. New York
+  part_num: 560/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-9634.pdf
+  published: '2010-06-07T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:33:15'
+  docket_num: 08-1307
+  name: Holster v. Gatco, Inc.
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1307Ginsburg.pdf
+  published: '2010-04-19T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:33:16'
+  docket_num: 08-1307
+  name: Holster v. Gatco, Inc.
+  part_num: 559/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1307Scalia.pdf
+  published: '2010-04-19T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:33:16'
+  docket_num: 09-671
+  name: Nurre v. Whitehead
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-671.pdf
+  published: '2010-03-22T00:00:00'
+  reporter_id: null
+  type: comment
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://trnmusic.com/pdfs/scorepdfs/onahymnsongofphilipbliss.pdf
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:33:17'
+  docket_num: 08-7721
+  name: Machado v. Holder
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-7721.pdf
+  published: '2010-03-01T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:33:18'
+  docket_num: 08-1229
+  name: Florida v. Rigterink
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1229.pdf
+  published: '2010-03-01T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:33:18'
+  docket_num: 09-35
+  name: Noriega v. Pastrana
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-35.pdf
+  published: '2010-01-25T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:33:21'
+  docket_num: 09-7839
+  name: Johnson v. Bredesen
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-7839Thomas.pdf
+  published: '2009-12-02T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:33:21'
+  docket_num: 09-7839
+  name: Johnson v. Bredesen
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-7839Stevens.pdf
+  published: '2009-12-02T00:00:00'
+  reporter_id: null
+  type: comment
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.state.tn.us/correction/pdf/
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:33:22'
+  docket_num: 08-10314
+  name: Webster v. Cooper
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-10314.pdf
+  published: '2009-11-30T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:33:24'
+  docket_num: 09-7328
+  name: Muhammad v. Kelly
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-7328.pdf
+  published: '2009-11-09T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:33:24'
+  docket_num: 09-166
+  name: United States v. Seale
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/09-166.pdf
+  published: '2009-11-02T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:33:24'
+  docket_num: 08-1385
+  name: Virginia v. Harris
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1385.pdf
+  published: '2009-10-20T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:33:25'
+  docket_num: 08-1407
+  name: DTD Enterprises, Inc. v. Wells
+  part_num: 558/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/08-1407.pdf
+  published: '2009-10-13T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:33:26'
+  docket_num: 10A298
+  name: Lux v. Rodrigues
+  part_num: 561/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/10A298.pdf
+  published: '2010-09-30T00:00:00'
+  reporter_id: null
+  type: in-chambers
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:33:26'
+  docket_num: 10A273
+  name: Philip Morris USA Inc v. Scott
+  part_num: 561/2
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/10A273.pdf
+  published: '2010-09-24T00:00:00'
+  reporter_id: null
+  type: in-chambers
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:33:27'
+  docket_num: 09A807
+  name: Jackson v. District of Columbia Board of Elections and Ethics
+  part_num: 559/1
+  pdf_url: http://www.supremecourt.gov/opinions/09pdf/9A0807.pdf
+  published: '2010-03-02T00:00:00'
+  reporter_id: null
+  type: in-chambers
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:33:28'
+  docket_num: 07-1428
+  name: Ricci v. DeStefano
+  part_num: 557/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1428.pdf
+  published: '2009-06-29T00:00:00'
+  reporter_id: '83'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:33:41'
+  docket_num: 08-453
+  name: Cuomo v. Clearing House Assn., L. L. C.
+  part_num: 557/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-453.pdf
+  published: '2009-06-29T00:00:00'
+  reporter_id: '82'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:33:46'
+  docket_num: 08-289
+  name: Horne v. Flores
+  part_num: 557/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-289.pdf
+  published: '2009-06-25T00:00:00'
+  reporter_id: '81'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ade.state.az.us/researchpolicy/AZEnroll/2008-2009/Octenroll2009schoolbygrade.pdf
+  - ok: null
+    reviewer: null
+    url: http://nces.ed.gov/pubs2009/2009020.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.ade.state.az.us/
+  - ok: null
+    reviewer: null
+    url: http://www.azed.gov/oelas/downloads/T3Determinations2008.pdf(showing
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:33:59'
+  docket_num: 08-214
+  name: Atlantic Sounding Co. v. Townsend
+  part_num: 557/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-214.pdf
+  published: '2009-06-25T00:00:00'
+  reporter_id: '80'
+  type: slip
+  urls: []
+- author_id: David H. Souter
+  created: '2014-08-07T14:34:04'
+  docket_num: 08-479
+  name: 'Safford Unified School Dist. #1 v. Redding'
+  part_num: 557/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-479.pdf
+  published: '2009-06-25T00:00:00'
+  reporter_id: '79'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.aapcc.org/dnn/About/tabid/74/Default.aspx
+  - ok: null
+    reviewer: null
+    url: http://docs.nycenet.edu/docushare/dsweb/Get/Document-21/A-432.pdf
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:34:12'
+  docket_num: 07-591
+  name: Melendez-Diaz v. Massachusetts
+  part_num: 557/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-591.pdf
+  published: '2009-06-25T00:00:00'
+  reporter_id: '78'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.fbi.gov/hq/lab/lab2007/labannual07.pdf
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:34:20'
+  docket_num: 07-984
+  name: Coeur Alaska, Inc. v. Southeast Alaska Conservation Council
+  part_num: 557/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-984.pdf
+  published: '2009-06-22T00:00:00'
+  reporter_id: '77'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:34:28'
+  docket_num: 08-305
+  name: Forest Grove School Dist. v. T. A.
+  part_num: 557/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-305.pdf
+  published: '2009-06-22T00:00:00'
+  reporter_id: '76'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:34:33'
+  docket_num: 08-322
+  name: Northwest Austin Municipal Util. Dist. No. One v. Holder
+  part_num: 557/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-322.pdf
+  published: '2009-06-22T00:00:00'
+  reporter_id: '75'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:34:40'
+  docket_num: 08-441
+  name: Gross v. FBL Financial Services, Inc.
+  part_num: 557/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-441.pdf
+  published: '2009-06-18T00:00:00'
+  reporter_id: '74'
+  type: slip
+  urls: []
+- author_id: David H. Souter
+  created: '2014-08-07T14:34:45'
+  docket_num: 08-295
+  name: Travelers Indemnity Co. v. Bailey
+  part_num: 557/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-295.pdf
+  published: '2009-06-18T00:00:00'
+  reporter_id: '73'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:34:50'
+  docket_num: 08-67
+  name: Yeager v. United States
+  part_num: 557/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-67.pdf
+  published: '2009-06-18T00:00:00'
+  reporter_id: '72'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:34:55'
+  docket_num: 08-6
+  name: District Attorney's Office for Third Judicial Dist. v. Osborne
+  part_num: 557/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-6.pdf
+  published: '2009-06-18T00:00:00'
+  reporter_id: '71'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.osbm.state.nc.us/files/pdf_files/3-1-2006FinalDNAReport.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.wcjsc.org/WCJSC_Report_on_DNA_Backlog.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.doj.state.wi.us/news/files/dnaanalysisplan.pdf
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:35:06'
+  docket_num: 08-495
+  name: Nijhawan v. Holder
+  part_num: 557/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-495.pdf
+  published: '2009-06-15T00:00:00'
+  reporter_id: '70'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:35:10'
+  docket_num: 08-310
+  name: Polar Tankers, Inc. v. City of Valdez
+  part_num: 557/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-310.pdf
+  published: '2009-06-15T00:00:00'
+  reporter_id: '69'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.commerce.state.ak.us/dca/Taxable/AKTaxable2001.pdf
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:35:15'
+  docket_num: 08A1096
+  name: Indiana State Police Pension Trust v. Chrysler LLC
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08A1096.pdf
+  published: '2009-06-09T00:00:00'
+  reporter_id: '68'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:35:15'
+  docket_num: 07-1309
+  name: Boyle v. United States
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1309.pdf
+  published: '2009-06-08T00:00:00'
+  reporter_id: '67'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:35:19'
+  docket_num: 08-660
+  name: United States ex rel. Eisenstein v. City of New York
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-660.pdf
+  published: '2009-06-08T00:00:00'
+  reporter_id: '66'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:35:22'
+  docket_num: 08-267
+  name: United States v. Denedo
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-267.pdf
+  published: '2009-06-08T00:00:00'
+  reporter_id: '65'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:35:26'
+  docket_num: 08-22
+  name: Caperton v. A. T. Massey Coal Co.
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-22.pdf
+  published: '2009-06-08T00:00:00'
+  reporter_id: '64'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:35:32'
+  docket_num: 07-1090
+  name: Republic of Iraq v. Beaty
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1090.pdf
+  published: '2009-06-08T00:00:00'
+  reporter_id: '63'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:35:35'
+  docket_num: 08-1034
+  name: CSX Transp., Inc. v. Hensley
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-1034.pdf
+  published: '2009-06-01T00:00:00'
+  reporter_id: '62'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:35:37'
+  docket_num: 08-598
+  name: Bobby v. Bies
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-598.pdf
+  published: '2009-06-01T00:00:00'
+  reporter_id: '61'
+  type: slip
+  urls: []
+- author_id: David H. Souter
+  created: '2014-08-07T14:35:40'
+  docket_num: 08-192
+  name: Abuelhawa v. United States
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-192.pdf
+  published: '2009-05-26T00:00:00'
+  reporter_id: '60'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:35:42'
+  docket_num: 07-10374
+  name: Haywood v. Drown
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-10374.pdf
+  published: '2009-05-26T00:00:00'
+  reporter_id: '59'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:35:51'
+  docket_num: 07-1529
+  name: Montejo v. Louisiana
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1529.pdf
+  published: '2009-05-26T00:00:00'
+  reporter_id: '58'
+  type: slip
+  urls: []
+- author_id: David H. Souter
+  created: '2014-08-07T14:35:59'
+  docket_num: 07-543
+  name: AT&T; Corp. v. Hulteen
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-543.pdf
+  published: '2009-05-18T00:00:00'
+  reporter_id: '57'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://lsr.nellco.org/yale/ylsspps/papers/41
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:36:04'
+  docket_num: 07-1015
+  name: Ashcroft v. Iqbal
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1015.pdf
+  published: '2009-05-18T00:00:00'
+  reporter_id: '56'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.usdoj.gov/oig/special/
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:36:11'
+  docket_num: 08-108
+  name: Flores-Figueroa v. United States
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-108.pdf
+  published: '2009-05-04T00:00:00'
+  reporter_id: '55'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:36:14'
+  docket_num: 07-1437
+  name: Carlsbad Technology, Inc. v. HIF Bio, Inc.
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1437.pdf
+  published: '2009-05-04T00:00:00'
+  reporter_id: '54'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:36:16'
+  docket_num: 08-146
+  name: Arthur Andersen LLP v. Carlisle
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-146.pdf
+  published: '2009-05-04T00:00:00'
+  reporter_id: '53'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:36:18'
+  docket_num: 07-1601
+  name: Burlington N. & S. F. R. Co. v. United States
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1601.pdf
+  published: '2009-05-04T00:00:00'
+  reporter_id: '52'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:36:23'
+  docket_num: 07-1356
+  name: Kansas v. Ventris
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1356.pdf
+  published: '2009-04-29T00:00:00'
+  reporter_id: '51'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:36:25'
+  docket_num: 08-5274
+  name: Dean v. United States
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-5274.pdf
+  published: '2009-04-29T00:00:00'
+  reporter_id: '50'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:36:29'
+  docket_num: 07-582
+  name: FCC v. Fox Television Stations, Inc.
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-582.pdf
+  published: '2009-04-28T00:00:00'
+  reporter_id: '49'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: "http://www.fcc.gov/DA06\u20131739/joint\xADnetworks.pdf"
+  - ok: null
+    reviewer: null
+    url: http://www.wired.com/entertainment/music/news/2004/07/64127
+  - ok: null
+    reviewer: null
+    url: http://www.cpb.org/aboutpb/faq/stations.html
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:36:40'
+  docket_num: 07-1114
+  name: Cone v. Bell
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1114.pdf
+  published: '2009-04-28T00:00:00'
+  reporter_id: '48'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:36:49'
+  docket_num: 08-681
+  name: Nken v. Holder
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-681.pdf
+  published: '2009-04-22T00:00:00'
+  reporter_id: '47'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:36:55'
+  docket_num: 07-1209
+  name: Shinseki v. Sanders
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1209.pdf
+  published: '2009-04-21T00:00:00'
+  reporter_id: '46'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:36:58'
+  docket_num: 07-615
+  name: Ministry of Defense and Support for Armed Forces of Islamic Republic of Iran
+    v. Elahi
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-615.pdf
+  published: '2009-04-21T00:00:00'
+  reporter_id: '45'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:37:03'
+  docket_num: 07-542
+  name: Arizona v. Gant
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-542.pdf
+  published: '2009-04-21T00:00:00'
+  reporter_id: '44'
+  type: slip
+  urls: []
+- author_id: David H. Souter
+  created: '2014-08-07T14:37:10'
+  docket_num: 07-10441
+  name: Corley v. United States
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-10441.pdf
+  published: '2009-04-06T00:00:00'
+  reporter_id: '43'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:37:16'
+  docket_num: 07-1410
+  name: United States v. Navajo Nation
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1410.pdf
+  published: '2009-04-06T00:00:00'
+  reporter_id: '42'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:37:19'
+  docket_num: 07-581
+  name: 14 Penn Plaza LLC v. Pyett
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-581.pdf
+  published: '2009-04-01T00:00:00'
+  reporter_id: '41'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:37:26'
+  docket_num: 07-588
+  name: Entergy Corp. v. Riverkeeper, Inc.
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-588.pdf
+  published: '2009-04-01T00:00:00'
+  reporter_id: '40'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.epa.gov/waterscience/316b/files/1977AEIguid.pdf,(all
+  - ok: null
+    reviewer: null
+    url: http://www.epa.gov/waterscience/316b/phase2/econbenefits/final/a3.pdf
+  - ok: null
+    reviewer: null
+    url: http://
+  - ok: null
+    reviewer: null
+    url: http://www.epa.gov/waterscience/316b/phase2/econbenefits.3EPA
+  - ok: null
+    reviewer: null
+    url: http://www.epa.gov/waterscience/316b/phase2/econbenefits/final.htm
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:37:32'
+  docket_num: 07-8521
+  name: Harbison v. Bell
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-8521.pdf
+  published: '2009-04-01T00:00:00'
+  reporter_id: '39'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:37:37'
+  docket_num: 07-1216
+  name: Philip Morris USA Inc. v. Williams
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1216.pdf
+  published: '2009-03-31T00:00:00'
+  reporter_id: '38'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:37:37'
+  docket_num: 07-1372
+  name: Hawaii v. Office of Hawaiian Affairs
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1372.pdf
+  published: '2009-03-31T00:00:00'
+  reporter_id: '37'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:37:40'
+  docket_num: 07-9995
+  name: Rivera v. Illinois
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-9995.pdf
+  published: '2009-03-31T00:00:00'
+  reporter_id: '36'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ojp.usdoj.gov/bjs/pub/pdf/sco04.pdf
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:37:43'
+  docket_num: 07-9712
+  name: Puckett v. United States
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-9712.pdf
+  published: '2009-03-25T00:00:00'
+  reporter_id: '35'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:37:46'
+  docket_num: 07-1315
+  name: Knowles v. Mirzayance
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1315.pdf
+  published: '2009-03-24T00:00:00'
+  reporter_id: '34'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:37:49'
+  docket_num: 105, Orig.
+  name: Kansas v. Colorado
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/105Orig.pdf
+  published: '2009-03-09T00:00:00'
+  reporter_id: '33'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:37:51'
+  docket_num: 08-88
+  name: Vermont v. Brillon
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-88.pdf
+  published: '2009-03-09T00:00:00'
+  reporter_id: '32'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:37:54'
+  docket_num: 07-773
+  name: Vaden v. Discover Bank
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-773.pdf
+  published: '2009-03-09T00:00:00'
+  reporter_id: '31'
+  type: slip
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:38:00'
+  docket_num: 07-689
+  name: Bartlett v. Strickland
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-689.pdf
+  published: '2009-03-09T00:00:00'
+  reporter_id: '30'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.census.gov/population/www/cen2000/briefs/phc-t31/index.html(as
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:38:09'
+  docket_num: 06-1249
+  name: Wyeth v. Levine
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/06-1249.pdf
+  published: '2009-03-04T00:00:00'
+  reporter_id: '29'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.fda.gov/ohrms/dockets/ac/07/briefing/2007-4329b_02_01_FDA%20Report%20on%20Sci
+  - ok: null
+    reviewer: null
+    url: http://www.gao.gov/new.items/d06402.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.accessdata.fda.gov/scripts/cder/onctools/labels.cfm?GN=meclorethamine,%20nitrogen%20mustard
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:38:21'
+  docket_num: 07-499
+  name: Negusie v. Holder
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-499.pdf
+  published: '2009-03-03T00:00:00'
+  reporter_id: '28'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:38:30'
+  docket_num: 07-463
+  name: Summers v. Earth Island Institute
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-463.pdf
+  published: '2009-03-03T00:00:00'
+  reporter_id: '27'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.fs.fed.us/aboutus/meetfs.shtml
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:38:34'
+  docket_num: 07-665
+  name: Pleasant Grove City v. Summum
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-665.pdf
+  published: '2009-02-25T00:00:00'
+  reporter_id: '26'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.summum.us/philosophy/gnosticism.shtml
+  - ok: null
+    reviewer: null
+    url: http://www.summum.us/philosophy/tencommandments.shtml
+  - ok: null
+    reviewer: null
+    url: http://www.visittucson.org/includes/media/docs/Tucson
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:38:38'
+  docket_num: 07-512
+  name: Pacific Bell Telephone Co. v. linkLine Communications, Inc.
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-512.pdf
+  published: '2009-02-25T00:00:00'
+  reporter_id: '25'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:38:42'
+  docket_num: 07-608
+  name: United States v. Hayes
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-608.pdf
+  published: '2009-02-24T00:00:00'
+  reporter_id: '24'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:38:47'
+  docket_num: 07-526
+  name: Carcieri v. Salazar
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-526.pdf
+  published: '2009-02-24T00:00:00'
+  reporter_id: '23'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:38:54'
+  docket_num: 07-869
+  name: Ysursa v. Pocatello Ed. Assn.
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-869.pdf
+  published: '2009-02-24T00:00:00'
+  reporter_id: '22'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:38:59'
+  docket_num: 08-5657
+  name: Nelson v. United States
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-5657.pdf
+  published: '2009-01-26T00:00:00'
+  reporter_id: '21'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:38:59'
+  docket_num: 07-854
+  name: Van de Kamp v. Goldstein
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-854.pdf
+  published: '2009-01-26T00:00:00'
+  reporter_id: '20'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:39:02'
+  docket_num: 07-1122
+  name: Arizona v. Johnson
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1122.pdf
+  published: '2009-01-26T00:00:00'
+  reporter_id: '19'
+  type: slip
+  urls: []
+- author_id: David H. Souter
+  created: '2014-08-07T14:39:04'
+  docket_num: 07-1059
+  name: United States v. Eurodif S. A.
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1059.pdf
+  published: '2009-01-26T00:00:00'
+  reporter_id: '18'
+  type: slip
+  urls: []
+- author_id: David H. Souter
+  created: '2014-08-07T14:39:09'
+  docket_num: 07-636
+  name: Kennedy v. Plan Administrator for DuPont Sav. and Investment Plan
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-636.pdf
+  published: '2009-01-26T00:00:00'
+  reporter_id: '17'
+  type: slip
+  urls: []
+- author_id: David H. Souter
+  created: '2014-08-07T14:39:13'
+  docket_num: 06-1595
+  name: Crawford v. Metropolitan Government of Nashville and Davidson Cty.
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/06-1595.pdf
+  published: '2009-01-26T00:00:00'
+  reporter_id: '16'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.eeoc.gov/stats/charges.html
+  - ok: null
+    reviewer: null
+    url: http://www.eeoc.gov/stats/charges-a.html
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:39:16'
+  docket_num: 08-5721
+  name: Spears v. United States
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-5721.pdf
+  published: '2009-01-21T00:00:00'
+  reporter_id: '15'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:39:17'
+  docket_num: 07-1125
+  name: Fitzgerald v. Barnstable School Comm.
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1125.pdf
+  published: '2009-01-21T00:00:00'
+  reporter_id: '14'
+  type: slip
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:39:20'
+  docket_num: 07-751
+  name: Pearson v. Callahan
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-751.pdf
+  published: '2009-01-21T00:00:00'
+  reporter_id: '13'
+  type: slip
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:39:24'
+  docket_num: 07-610
+  name: Locke v. Karass
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-610.pdf
+  published: '2009-01-21T00:00:00'
+  reporter_id: '12'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:39:27'
+  docket_num: 07-772
+  name: Waddington v. Sarausad
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-772.pdf
+  published: '2009-01-21T00:00:00'
+  reporter_id: '11'
+  type: slip
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:39:33'
+  docket_num: 07-901
+  name: Oregon v. Ice
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-901.pdf
+  published: '2009-01-14T00:00:00'
+  reporter_id: '10'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:39:37'
+  docket_num: 07-513
+  name: Herring v. United States
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-513.pdf
+  published: '2009-01-14T00:00:00'
+  reporter_id: '9'
+  type: slip
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ojp.usdoj.gov/bjs/pub/pdf/iaichr.pdf(All
+  - ok: null
+    reviewer: null
+    url: http://www.usdoj.gov/oig/reports/plus/a0816/final.pdf
+  - ok: null
+    reviewer: null
+    url: "http://www.ssa.gov/oig/ADOBEPDF/A\u201308\u201306\u201326100.pdf"
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:39:41'
+  docket_num: 06-11206
+  name: Chambers v. United States
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/06-11206.pdf
+  published: '2009-01-13T00:00:00'
+  reporter_id: '8'
+  type: slip
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:39:44'
+  docket_num: 07-6984
+  name: Jimenez v. Quarterman
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-6984.pdf
+  published: '2009-01-13T00:00:00'
+  reporter_id: '7'
+  type: slip
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:39:46'
+  docket_num: 07-562
+  name: Altria Group, Inc. v. Good
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-562.pdf
+  published: '2008-12-15T00:00:00'
+  reporter_id: '6'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:39:54'
+  docket_num: 07-544
+  name: Hedgpeth v. Pulido
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-544.pdf
+  published: '2008-12-02T00:00:00'
+  reporter_id: '5'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:39:57'
+  docket_num: 07-1223
+  name: Bell v. Kelly
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1223.pdf
+  published: '2008-11-17T00:00:00'
+  reporter_id: '4'
+  type: slip
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:39:57'
+  docket_num: 07-1239
+  name: Winter v. Natural  Resources Defense Council, Inc.
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1239.pdf
+  published: '2008-11-12T00:00:00'
+  reporter_id: '3'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:40:06'
+  docket_num: 08A332
+  name: Brunner v. Ohio Republican Party
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08A332.pdf
+  published: '2008-10-17T00:00:00'
+  reporter_id: '2'
+  type: slip
+  urls: []
+- author_id: Unsigned Per Curiam Opinion
+  created: '2014-08-07T14:40:06'
+  docket_num: 07-10689
+  name: Moore v. United States
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-10689.pdf
+  published: '2008-10-14T00:00:00'
+  reporter_id: '1'
+  type: slip
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:40:07'
+  docket_num: 08-1443
+  name: In re Davis
+  part_num: 557/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-1443Scalia.pdf
+  published: '2009-08-17T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:40:08'
+  docket_num: 08-1443
+  name: In re Davis
+  part_num: 557/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-1443Stevens.pdf
+  published: '2009-08-17T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:40:08'
+  docket_num: 07-9086
+  name: Grooms v. United States
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-9086.pdf
+  published: '2009-05-18T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Samuel A. Alito, Jr.
+  created: '2014-08-07T14:40:08'
+  docket_num: 07-6309
+  name: Megginson v. United States
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-6309.pdf
+  published: '2009-05-18T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Anthony M. Kennedy
+  created: '2014-08-07T14:40:09'
+  docket_num: 08-463
+  name: N. C. P. Marketing Group, Inc. v. BG Star Productions, Inc.
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-463.pdf
+  published: '2009-03-23T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:40:09'
+  docket_num: 08-7369
+  name: Thompson v. McNeil
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-7369Breyer.pdf
+  published: '2009-03-09T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:40:10'
+  docket_num: 08-7369
+  name: Thompson v. McNeil
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-7369Thomas.pdf
+  published: '2009-03-09T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:40:11'
+  docket_num: 08-7369
+  name: Thompson v. McNeil
+  part_num: 556/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-7369Stevens.pdf
+  published: '2009-03-09T00:00:00'
+  reporter_id: null
+  type: comment
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.ojp.usdoj.gov/bjs/pub/html/cp/2007/tables/cp07st11.htm
+  - ok: null
+    reviewer: null
+    url: http:/www.ojp.usdoj.gov/bjs/pub/pdf/cp05.pdf
+  - ok: null
+    reviewer: null
+    url: http://www.deathpenaltyinfo.org/innocence-list-those-freed-death-row
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:40:11'
+  docket_num: 08-410
+  name: Sorich v. United States
+  part_num: 555/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-410.pdf
+  published: '2009-02-23T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:40:12'
+  docket_num: 08A471
+  name: Vail v. Stenson
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08A471.pdf
+  published: '2008-12-03T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:40:12'
+  docket_num: 07-11073
+  name: Kelly v. California
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-11073Breyer.pdf
+  published: '2008-11-10T00:00:00'
+  reporter_id: null
+  type: comment
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.supremecourtus.gov/opinions/video/kelly_v_california.html
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:40:13'
+  docket_num: 07-11073
+  name: Kelly v. California
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-11073Stevens.pdf
+  published: '2008-11-10T00:00:00'
+  reporter_id: null
+  type: comment
+  urls:
+  - ok: null
+    reviewer: null
+    url: http://www.supremecourtus.gov/opinions/video/kelly_v_california.html
+- author_id: Clarence Thomas
+  created: '2014-08-07T14:40:14'
+  docket_num: 08-5385
+  name: Walker v. Georgia
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-5385Thomas.pdf
+  published: '2008-10-20T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John Paul Stevens
+  created: '2014-08-07T14:40:15'
+  docket_num: 08-5385
+  name: Walker v. Georgia
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08-5385Stevens.pdf
+  published: '2008-10-20T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: John G. Roberts, Jr.
+  created: '2014-08-07T14:40:17'
+  docket_num: 07-1486
+  name: Pennsylvania v. Dunlap
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1486.pdf
+  published: '2008-10-14T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Antonin Scalia
+  created: '2014-08-07T14:40:18'
+  docket_num: 07-1390
+  name: Marlowe v. United States
+  part_num: 555/1
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/07-1390.pdf
+  published: '2008-10-14T00:00:00'
+  reporter_id: null
+  type: comment
+  urls: []
+- author_id: Stephen G. Breyer
+  created: '2014-08-07T14:40:18'
+  docket_num: 09A194
+  name: "O\u2019Brien v. O\u2019Laughlin"
+  part_num: 557/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/09A194.pdf
+  published: '2009-08-26T00:00:00'
+  reporter_id: null
+  type: in-chambers
+  urls: []
+- author_id: Ruth Bader Ginsburg
+  created: '2014-08-07T14:40:19'
+  docket_num: 08-810 (08A884)
+  name: Conkright v. Frommert
+  part_num: 556/2
+  pdf_url: http://www.supremecourt.gov/opinions/08pdf/08A884.pdf
+  published: '2009-04-30T00:00:00'
+  reporter_id: null
+  type: in-chambers
   urls: []
