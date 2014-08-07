@@ -4,8 +4,8 @@
 import io
 import re
 import sys
-import json
 import time
+import yaml
 import urllib
 import logging
 import datetime
@@ -25,7 +25,6 @@ def get_all_opinions():
     opinions = []
     for term_page_url in get_term_pages():
         opinions += get_opinions(term_page_url, authors)
-        break
     return opinions
 
 def get_term_pages():
@@ -77,7 +76,11 @@ def get_opinions(term_page_url, authors, parse_pdf=True):
 
         if parse_pdf:
             for url in extract_urls(pdf_url):
-                u = {"url": url}
+                u = {
+                    "url": url, 
+                    "ok": None, 
+                    "reviewer": None
+                }
                 logging.info("found url: %s", url)
                 o["urls"].append(u)
 
@@ -195,4 +198,6 @@ if __name__ == "__main__":
     logger.addHandler(logging.StreamHandler(sys.stdout))
     logger.setLevel("INFO")
     results = get_all_opinions()
-    open("data.json", "w").write(json.dumps(results, indent=2))
+    open("scotus-bookmarks.yaml", "w").write(
+        yaml.safe_dump(results, default_flow_style=False)
+    )
